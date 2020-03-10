@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf7bbc12-efb5-4f3f-9f6f-e08cc99815e5" name="Default" comment="" />
+    <list default="true" id="cf7bbc12-efb5-4f3f-9f6f-e08cc99815e5" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day03/BitTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,11 +33,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="identifier.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="identifier.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Day02/identifier.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
               <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BitTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Day03/BitTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="38" column="32" lean-forward="true" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -58,6 +69,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Day01/annotation.java" />
         <option value="$PROJECT_DIR$/src/main/java/Day01/First_Program_Summary.java" />
         <option value="$PROJECT_DIR$/src/main/java/Day02/identifier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Day03/BitTest.java" />
       </list>
     </option>
   </component>
@@ -120,6 +132,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaBasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaBasic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Day03" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -239,7 +259,7 @@
       <workItem from="1582387465324" duration="887000" />
       <workItem from="1582427020365" duration="796000" />
       <workItem from="1582473969995" duration="560000" />
-      <workItem from="1583848991925" duration="400000" />
+      <workItem from="1583848991925" duration="446000" />
     </task>
     <task id="LOCAL-00001" summary="dayTwo">
       <created>1582474347910</created>
@@ -259,7 +279,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2643000" />
+    <option name="totallyTimeSpent" value="2689000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -415,6 +435,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day03/BitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="38" column="32" lean-forward="true" selection-start-line="38" selection-start-column="32" selection-end-line="38" selection-end-column="32" />
         </state>
       </provider>
     </entry>
