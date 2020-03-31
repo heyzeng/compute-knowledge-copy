@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf7bbc12-efb5-4f3f-9f6f-e08cc99815e5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day01/demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0dc05166d1c46eb7b26641fdd3b7044ce8a35109" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0dc05166d1c46eb7b26641fdd3b7044ce8a35109" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5e4a73bb4b493b444e3ec6b5fa725d58f61986e1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5e4a73bb4b493b444e3ec6b5fa725d58f61986e1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/8/688465ff9fe69cd7a184ac989d0aafa852cc6917" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/8/688465ff9fe69cd7a184ac989d0aafa852cc6917" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/ea621209bf771a9e6e29a64aa1ae284ce11495eb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/ea621209bf771a9e6e29a64aa1ae284ce11495eb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f215bb14e6a2c7480524187814063cf06f8b8717" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f215bb14e6a2c7480524187814063cf06f8b8717" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day02/NTtest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Day01/First_Program_Summary.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Day01/First_Program_Summary.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Day01/annotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Day01/annotation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Day02/ArithmeticTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Day02/ArithmeticTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Day02/identifier.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Day02/identifier.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Day03/BitTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Day03/BitTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Day03/ifTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Day03/ifTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/demo.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,15 +17,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="demo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="demo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Day01/demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+            <state relative-caret-position="330">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
               <folding>
                 <element signature="e#130#131#0" expanded="true" />
                 <element signature="e#166#167#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NTtest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Day02/NTtest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -63,6 +61,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Day02/ArithmeticTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Day03/ifTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Day01/demo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Day02/NTtest.java" />
       </list>
     </option>
   </component>
@@ -180,7 +179,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.demo">
+  <component name="RunManager" selected="Application.NTtest">
     <configuration name="First_Program_Summary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day01.First_Program_Summary" />
       <module name="JavaBasic" />
@@ -188,6 +187,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Day01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="NTtest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day02.NTtest" />
+      <module name="JavaBasic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -265,9 +275,11 @@
       <item itemvalue="Application.First_Program_Summary" />
       <item itemvalue="Application.ifTest" />
       <item itemvalue="Application.demo" />
+      <item itemvalue="Application.NTtest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NTtest" />
         <item itemvalue="Application.demo" />
         <item itemvalue="Application.ifTest" />
         <item itemvalue="Application.First_Program_Summary" />
@@ -291,7 +303,7 @@
       <workItem from="1583848991925" duration="1010000" />
       <workItem from="1585102937986" duration="375000" />
       <workItem from="1585664858511" duration="155000" />
-      <workItem from="1585665348794" duration="58000" />
+      <workItem from="1585665348794" duration="300000" />
     </task>
     <task id="LOCAL-00001" summary="dayTwo">
       <created>1582474347910</created>
@@ -311,7 +323,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3841000" />
+    <option name="totallyTimeSpent" value="4083000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -319,6 +331,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32914045" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -326,11 +339,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32914045" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329602" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32914045" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27647784" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27647784" />
       <window_info anchor="bottom" id="SonarLint" order="7" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -345,7 +358,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" visible="true" weight="0.32914045" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -541,12 +553,19 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Day03/ArithmeticTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Day01/demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        <state relative-caret-position="330">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="e#130#131#0" expanded="true" />
             <element signature="e#166#167#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day02/NTtest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
         </state>
       </provider>
     </entry>
