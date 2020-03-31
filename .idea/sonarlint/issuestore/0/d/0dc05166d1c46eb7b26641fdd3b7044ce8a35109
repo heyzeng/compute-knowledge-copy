@@ -1,7 +1,7 @@
 
-Usquid:S1854!">Remove this useless assignment to local variable "personName".(ßÛÞË
-Ysquid:S1854"=Remove this useless assignment to local variable "personAge".(äí›óþÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›µöŽþÿÿÿÿ
 Fsquid:S1481!"/Remove this unused "personName" local variable.(ßÛÞË
 jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ô—ƒäÿÿÿÿÿ
+Ysquid:S1854"=Remove this useless assignment to local variable "personAge".(äí›óþÿÿÿÿ
+Usquid:S1854!">Remove this useless assignment to local variable "personName".(ßÛÞË
 Jsquid:S1481".Remove this unused "personAge" local variable.(äí›óþÿÿÿÿ
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›µöŽþÿÿÿÿ

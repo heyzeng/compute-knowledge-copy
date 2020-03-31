@@ -11,3 +11,5 @@ P
  src/main/java/Day03/BitTest.java,e/a/ea621209bf771a9e6e29a64aa1ae284ce11495eb
 W
 'src/main/java/Day02/ArithmeticTest.java,5/e/5e4a73bb4b493b444e3ec6b5fa725d58f61986e1
+O
+src/main/java/Day03/ifTest.java,8/e/8ec753b86113c39f3788a892231f9ca2619812f4
