@@ -1,9 +1,5 @@
 package Day01;
 
-/**
- * Author:Jude
- * Date:2020-02-23 12:36 AM
- */
 
 /*
 

@@ -1,9 +1,4 @@
 package Day02;
-
-/**
- * Author:Jude
- * Date:2020-03-31 10:41 PM
- */
 /*
    \n : 换行符
 

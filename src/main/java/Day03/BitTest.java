@@ -1,9 +1,5 @@
 package Day03;
 
-/**
- * Author:Jude
- * Date:2020-03-10 10:32 PM
- */
 /*
 
 	进制的表示方式 ：
