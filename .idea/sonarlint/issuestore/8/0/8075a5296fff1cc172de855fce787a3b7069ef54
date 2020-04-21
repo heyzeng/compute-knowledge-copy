@@ -1,0 +1,14 @@
+
+Ssquid:S1854"5Remove this useless assignment to local variable "d".(Ϊ“Ζλ8Ξ†κέ™.
+Dsquid:S1481"&Remove this unused "d" local variable.(Ϊ“Ζλ8Ξ†κέ™.
+esquid:S00101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Γ·Ω»
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›µφώÿÿÿÿ
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(·ωίσύÿÿÿÿ8Ξ†κέ™.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(²”Αγ8Ξ†κέ™.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(‡¤”8Ξ†κέ™.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Α¨‡£ϋÿÿÿÿ8Ξ†κέ™.

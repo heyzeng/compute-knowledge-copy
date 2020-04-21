@@ -17,3 +17,15 @@ M
 src/main/java/Day01/demo.java,9/1/9109b7ff9c8024e84bd86dcc89da1c62dd741a89
 O
 src/main/java/Day02/NTtest.java,1/0/107f8f9c93dee5511b82462bd4a9e750fa6cb317
+P
+ src/main/java/Day02/VarTest.java,d/4/d48a81ca9eb3fce8ff7bcac40f48c2e51a66f16b
+Q
+!src/main/java/Day02/varTest2.java,e/b/ebe5ac8dd94e8555736ee523b73db409e6db48f7
+Q
+!src/main/java/Day02/varTest3.java,5/b/5b52c790e34787450b95d38bb52ae602f354dcaf
+Q
+!src/main/java/Day02/varTest5.java,8/0/8075a5296fff1cc172de855fce787a3b7069ef54
+Q
+!src/main/java/Day02/varTest4.java,6/d/6d3183f667855f1e5d31fc9171150bef5ca73287
+Q
+!src/main/java/Day02/varTest6.java,0/5/05aa90992cf9f038a39eb627655a348fc1c4a56b

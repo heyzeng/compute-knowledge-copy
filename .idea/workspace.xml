@@ -2,21 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf7bbc12-efb5-4f3f-9f6f-e08cc99815e5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day02/varTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day02/varTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day02/varTest4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day02/varTest5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Day02/varTest6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0dc05166d1c46eb7b26641fdd3b7044ce8a35109" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0dc05166d1c46eb7b26641fdd3b7044ce8a35109" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/0/107f8f9c93dee5511b82462bd4a9e750fa6cb317" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/0/107f8f9c93dee5511b82462bd4a9e750fa6cb317" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5e4a73bb4b493b444e3ec6b5fa725d58f61986e1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5e4a73bb4b493b444e3ec6b5fa725d58f61986e1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/8/688465ff9fe69cd7a184ac989d0aafa852cc6917" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/8/688465ff9fe69cd7a184ac989d0aafa852cc6917" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec753b86113c39f3788a892231f9ca2619812f4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec753b86113c39f3788a892231f9ca2619812f4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/1/9109b7ff9c8024e84bd86dcc89da1c62dd741a89" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/1/9109b7ff9c8024e84bd86dcc89da1c62dd741a89" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/ea621209bf771a9e6e29a64aa1ae284ce11495eb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/ea621209bf771a9e6e29a64aa1ae284ce11495eb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f215bb14e6a2c7480524187814063cf06f8b8717" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f215bb14e6a2c7480524187814063cf06f8b8717" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Day02/VarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day02/VarTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Day01/First_Program_Summary.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Day01/First_Program_Summary.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Day01/annotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Day01/annotation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Day01/demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Day01/demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Day02/ArithmeticTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Day02/ArithmeticTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Day02/NTtest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Day02/NTtest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Day02/identifier.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Day02/identifier.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Day03/BitTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Day03/BitTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Day03/ifTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Day03/ifTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day02/ArithmeticTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day02/ArithmeticTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,7 +28,7 @@
       <file leaf-file-name="varTest2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Day02/varTest2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-982">
+            <state relative-caret-position="378">
               <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
             </state>
           </provider>
@@ -41,7 +37,7 @@
       <file leaf-file-name="varTest3.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Day02/varTest3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-360">
+            <state relative-caret-position="594">
               <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
             </state>
           </provider>
@@ -51,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/Day02/varTest4.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="837">
-              <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+              <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -65,11 +61,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="varTest6.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="varTest6.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Day02/varTest6.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+            <state relative-caret-position="692">
+              <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArithmeticTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Day02/ArithmeticTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -95,7 +100,7 @@
       <file leaf-file-name="VarTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Day02/VarTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1846">
+            <state>
               <caret column="14" selection-start-column="14" selection-end-column="14" />
             </state>
           </provider>
@@ -118,7 +123,6 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/Day02/NTtest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Day02/identifier.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Day02/ArithmeticTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Day03/BitTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Day03/ifTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Day01/annotation.java" />
@@ -130,6 +134,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Day02/varTest4.java" />
         <option value="$PROJECT_DIR$/src/main/java/Day02/varTest5.java" />
         <option value="$PROJECT_DIR$/src/main/java/Day02/varTest6.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Day02/ArithmeticTest.java" />
       </list>
     </option>
   </component>
@@ -165,6 +170,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -219,8 +226,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -372,7 +377,8 @@
       <workItem from="1585102937986" duration="375000" />
       <workItem from="1585664858511" duration="155000" />
       <workItem from="1585665348794" duration="536000" />
-      <workItem from="1587452665997" duration="1320000" />
+      <workItem from="1587452665997" duration="1476000" />
+      <workItem from="1587457322497" duration="11000" />
     </task>
     <task id="LOCAL-00001" summary="dayTwo">
       <created>1582474347910</created>
@@ -392,7 +398,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5639000" />
+    <option name="totallyTimeSpent" value="5806000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -400,7 +406,6 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32914045" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -408,12 +413,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32914045" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24253732" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24253732" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2817919" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2868497" />
       <window_info anchor="bottom" id="SonarLint" order="7" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -422,11 +426,13 @@
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32914045" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -467,6 +473,62 @@
     <option name="LAST_COMMIT_MESSAGE" value="dayThree" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day02/varTest2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day02/varTest3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day02/varTest4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day02/varTest5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day02/NTtest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day02/identifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day02/VarTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day02/varTest6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1512">
+          <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Day01/demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -596,13 +658,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Day03/.ArithmeticTest.java.swp" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Day03/ArithmeticTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Day02/ArithmeticTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Day03/ifTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -644,7 +699,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Day02/VarTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1846">
+        <state>
           <caret column="14" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
@@ -665,14 +720,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Day02/varTest2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-982">
+        <state relative-caret-position="378">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Day02/varTest3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-360">
+        <state relative-caret-position="594">
           <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
         </state>
       </provider>
@@ -680,7 +735,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/Day02/varTest4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="837">
-          <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -693,8 +748,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Day02/varTest6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        <state relative-caret-position="692">
+          <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day02/ArithmeticTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
         </state>
       </provider>
     </entry>

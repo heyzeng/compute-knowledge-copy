@@ -1,0 +1,41 @@
+
+O
+squid:S1069"9Replace this use of System.out or System.err by a logger.(Ó¥öÔ
+8squid:S1659O"!Declare "nu3" on a separate line.(ü¯Ïá
+O
+squid:S106L"9Replace this use of System.out or System.err by a logger.(‹ÿî­
+T
+squid:S106F"9Replace this use of System.out or System.err by a logger.(®ŠÓÈûÿÿÿÿ
+O
+squid:S106="9Replace this use of System.out or System.err by a logger.( Ùâø
+<squid:S1659J" Declare "n3" on a separate line.(ˆá¿¥ıÿÿÿÿ
+O
+squid:S106H"9Replace this use of System.out or System.err by a logger.(ÆÀ³À
+O
+squid:S106U"9Replace this use of System.out or System.err by a logger.(àÖÏ¢
+T
+squid:S106%"9Replace this use of System.out or System.err by a logger.(©¨ÑÈùÿÿÿÿ
+N
+squid:S106K"9Replace this use of System.out or System.err by a logger.(Î±ä
+8squid:S1659O"!Declare "nu2" on a separate line.(ü¯Ïá
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›µöşÿÿÿÿ8–ÇÎİ™.
+‚squid:S1192-"kDefine a constant instead of duplicating this literal "------------------------------------------" 4 times.(ÆÀ³À
+N
+squid:S106V"9Replace this use of System.out or System.err by a logger.(œ¾µ
+bsquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(ìôŒŸ
+O
+squid:S106@"9Replace this use of System.out or System.err by a logger.(ÆÀ³À
+T
+squid:S106M"9Replace this use of System.out or System.err by a logger.(ƒ» ûÿÿÿÿ
+O
+squid:S106T"9Replace this use of System.out or System.err by a logger.(ëáÀÉ
+O
+squid:S1065"9Replace this use of System.out or System.err by a logger.(ÆÀ³À
+O
+squid:S1062"9Replace this use of System.out or System.err by a logger.(‚¨Ö§
+gsquid:CommentedOutCodeLineP"<This block of commented-out lines of code should be removed.(ë ù¥úÿÿÿÿ
+Rsquid:S1854";Remove this useless assignment to local variable "number2".(ìôŒŸ
+<squid:S1659J" Declare "n2" on a separate line.(ˆá¿¥ıÿÿÿÿ
+O
+squid:S106-"9Replace this use of System.out or System.err by a logger.(ÆÀ³À
+Csquid:S1481",Remove this unused "number2" local variable.(ìôŒŸ
