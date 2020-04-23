@@ -2,17 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf7bbc12-efb5-4f3f-9f6f-e08cc99815e5" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day03/EqualsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day03/ExerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/05aa90992cf9f038a39eb627655a348fc1c4a56b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/05aa90992cf9f038a39eb627655a348fc1c4a56b" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0dc05166d1c46eb7b26641fdd3b7044ce8a35109" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0dc05166d1c46eb7b26641fdd3b7044ce8a35109" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/0/107f8f9c93dee5511b82462bd4a9e750fa6cb317" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/0/107f8f9c93dee5511b82462bd4a9e750fa6cb317" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/b/5b52c790e34787450b95d38bb52ae602f354dcaf" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/b/5b52c790e34787450b95d38bb52ae602f354dcaf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5e4a73bb4b493b444e3ec6b5fa725d58f61986e1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5e4a73bb4b493b444e3ec6b5fa725d58f61986e1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/8/688465ff9fe69cd7a184ac989d0aafa852cc6917" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/8/688465ff9fe69cd7a184ac989d0aafa852cc6917" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec753b86113c39f3788a892231f9ca2619812f4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec753b86113c39f3788a892231f9ca2619812f4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/1/9109b7ff9c8024e84bd86dcc89da1c62dd741a89" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/1/9109b7ff9c8024e84bd86dcc89da1c62dd741a89" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/ea621209bf771a9e6e29a64aa1ae284ce11495eb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/ea621209bf771a9e6e29a64aa1ae284ce11495eb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f215bb14e6a2c7480524187814063cf06f8b8717" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f215bb14e6a2c7480524187814063cf06f8b8717" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d3183f667855f1e5d31fc9171150bef5ca73287" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d3183f667855f1e5d31fc9171150bef5ca73287" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/0/8075a5296fff1cc172de855fce787a3b7069ef54" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/0/8075a5296fff1cc172de855fce787a3b7069ef54" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d48a81ca9eb3fce8ff7bcac40f48c2e51a66f16b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d48a81ca9eb3fce8ff7bcac40f48c2e51a66f16b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/ebe5ac8dd94e8555736ee523b73db409e6db48f7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/ebe5ac8dd94e8555736ee523b73db409e6db48f7" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Day02/ArithmeticTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day02/ArithmeticTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Day03/ifTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day03/ifTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Day02/ArithmeticTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Day02/ArithmeticTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Day03/ifTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Day03/ifTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -64,13 +68,13 @@
       <file leaf-file-name="varTest6.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Day02/varTest6.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="692">
+            <state relative-caret-position="1512">
               <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArithmeticTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ArithmeticTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Day02/ArithmeticTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="297">
@@ -79,29 +83,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NTtest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Day02/NTtest.java">
+      <file leaf-file-name="BitTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Day03/BitTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="-205">
+              <caret line="48" column="40" selection-start-line="48" selection-start-column="40" selection-end-line="48" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="identifier.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Day02/identifier.java">
+      <file leaf-file-name="ifTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Day03/ifTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+            <state relative-caret-position="351">
+              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VarTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Day02/VarTest.java">
+      <file leaf-file-name="EqualsTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Day03/EqualsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            <state relative-caret-position="51">
+              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExerTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Day03/ExerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="509">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -123,8 +136,6 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/Day02/NTtest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Day02/identifier.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Day03/BitTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Day03/ifTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Day01/annotation.java" />
         <option value="$PROJECT_DIR$/src/main/java/Day01/demo.java" />
         <option value="$PROJECT_DIR$/src/main/java/Day01/First_Program_Summary.java" />
@@ -135,6 +146,10 @@
         <option value="$PROJECT_DIR$/src/main/java/Day02/varTest5.java" />
         <option value="$PROJECT_DIR$/src/main/java/Day02/varTest6.java" />
         <option value="$PROJECT_DIR$/src/main/java/Day02/ArithmeticTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Day03/BitTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Day03/ifTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Day03/EqualsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Day03/ExerTest.java" />
       </list>
     </option>
   </component>
@@ -170,9 +185,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -226,6 +238,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -252,14 +267,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.varTest6">
-    <configuration name="NTtest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day02.NTtest" />
+  <component name="RunManager" selected="Application.ExerTest">
+    <configuration name="BitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day03.BitTest" />
       <module name="JavaBasic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day02.*" />
+          <option name="PATTERN" value="Day03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="EqualsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day03.EqualsTest" />
+      <module name="JavaBasic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ExerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day03.ExerTest" />
+      <module name="JavaBasic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -267,29 +304,13 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo" />
-      <module name="JavaBasic" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="varTest4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day02.varTest4" />
+    <configuration name="ifTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day03.ifTest" />
       <module name="JavaBasic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="varTest5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day02.varTest5" />
-      <module name="JavaBasic" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day02.*" />
+          <option name="PATTERN" value="Day03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -344,19 +365,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.demo" />
-      <item itemvalue="Application.NTtest" />
-      <item itemvalue="Application.varTest4" />
-      <item itemvalue="Application.varTest5" />
       <item itemvalue="Application.varTest6" />
+      <item itemvalue="Application.BitTest" />
+      <item itemvalue="Application.ifTest" />
+      <item itemvalue="Application.EqualsTest" />
+      <item itemvalue="Application.ExerTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExerTest" />
+        <item itemvalue="Application.EqualsTest" />
+        <item itemvalue="Application.ifTest" />
+        <item itemvalue="Application.BitTest" />
         <item itemvalue="Application.varTest6" />
-        <item itemvalue="Application.varTest5" />
-        <item itemvalue="Application.varTest4" />
-        <item itemvalue="Application.NTtest" />
-        <item itemvalue="Application.demo" />
       </list>
     </recent_temporary>
   </component>
@@ -378,7 +399,8 @@
       <workItem from="1585664858511" duration="155000" />
       <workItem from="1585665348794" duration="536000" />
       <workItem from="1587452665997" duration="1476000" />
-      <workItem from="1587457322497" duration="11000" />
+      <workItem from="1587457322497" duration="47000" />
+      <workItem from="1587604801679" duration="1944000" />
     </task>
     <task id="LOCAL-00001" summary="dayTwo">
       <created>1582474347910</created>
@@ -398,14 +420,15 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5806000" />
+    <option name="totallyTimeSpent" value="7786000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32914045" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -413,11 +436,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32914045" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24253732" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24253732" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2868497" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29263005" />
       <window_info anchor="bottom" id="SonarLint" order="7" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -432,7 +455,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32914045" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -472,7 +494,61 @@
     <MESSAGE value="dayThree" />
     <option name="LAST_COMMIT_MESSAGE" value="dayThree" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day02/varTest4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day02/varTest5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day02/varTest6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1512">
+          <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day02/NTtest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day02/identifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day02/VarTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day02/ArithmeticTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Day02/varTest2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -533,10 +609,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#130#131#0" expanded="true" />
-            <element signature="e#179#180#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -551,10 +623,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#130#131#0" expanded="true" />
-            <element signature="e#179#180#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -658,24 +726,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Day03/.ArithmeticTest.java.swp" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Day03/ArithmeticTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Day03/ifTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Day01/annotation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Day03/BitTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
@@ -690,10 +744,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="e#130#131#0" expanded="true" />
-            <element signature="e#179#180#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -748,7 +798,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Day02/varTest6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="692">
+        <state relative-caret-position="1512">
           <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
         </state>
       </provider>
@@ -757,6 +807,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day03/BitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-205">
+          <caret line="48" column="40" selection-start-line="48" selection-start-column="40" selection-end-line="48" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day03/ifTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day03/EqualsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day03/ExerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>

@@ -1,47 +1,47 @@
 
-esquid:S2184!"BCast one of the operands of this division operation to a "double".(€Å…ºùÿÿÿÿ8°ß¤ùŒ.
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(·ùßóıÿÿÿÿ8°ß¤ùŒ.
 V
-squid:S106("9Replace this use of System.out or System.err by a logger.(ë¾‘8°ß¤ùŒ.
-[
-squid:S1068"9Replace this use of System.out or System.err by a logger.(•Òøˆûÿÿÿÿ8°ß¤ùŒ.
-hsquid:S1764/"JCorrect one of the identical sub-expressions on both sides of operator "%"(»üñ‹8°ß¤ùŒ.
-[
-squid:S106E"9Replace this use of System.out or System.err by a logger.(åŞŞûÿÿÿÿ8°ß¤ùŒ.
-^squid:S2184'"@Cast one of the operands of this integer division to a "double".(Ì™ÊÇ8°ß¤ùŒ.
-[
-squid:S1060"9Replace this use of System.out or System.err by a logger.(Ôé¯Óúÿÿÿÿ8°ß¤ùŒ.
-V
-squid:S1067"9Replace this use of System.out or System.err by a logger.(­éÕ–8°ß¤ùŒ.
-V
-squid:S106."9Replace this use of System.out or System.err by a logger.(úö—8°ß¤ùŒ.
-Zsquid:S1854""7Remove this useless assignment to local variable "dou".(Ûãê¾ûÿÿÿÿ8°ß¤ùŒ.
-V
-squid:S106-"9Replace this use of System.out or System.err by a logger.(Ë«ù¦8°ß¤ùŒ.
-V
-squid:S1066"9Replace this use of System.out or System.err by a logger.(éÅç¯8°ß¤ùŒ.
-Zsquid:S1854!"7Remove this useless assignment to local variable "dou".(€Å…ºùÿÿÿÿ8°ß¤ùŒ.
-Usquid:S1854#"7Remove this useless assignment to local variable "dou".(à´¯ß8°ß¤ùŒ.
-`squid:S2184'"BCast one of the operands of this division operation to a "double".(Ì™ÊÇ8°ß¤ùŒ.
-Usquid:S1854&"7Remove this useless assignment to local variable "dou".(ı‘Í8°ß¤ùŒ.
+squid:S106,"9Replace this use of System.out or System.err by a logger.(úö—8°ß¤ùŒ.
 U
-squid:S106O"9Replace this use of System.out or System.err by a logger.(ÂÒß58°ß¤ùŒ.
+squid:S106M"9Replace this use of System.out or System.err by a logger.(ÂÒß58°ß¤ùŒ.
+[
+squid:S106."9Replace this use of System.out or System.err by a logger.(Ôé¯Óúÿÿÿÿ8°ß¤ùŒ.
+V
+squid:S1062"9Replace this use of System.out or System.err by a logger.(ú•€Ë8°ß¤ùŒ.
 wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›µöşÿÿÿÿ
+V
+squid:S106("9Replace this use of System.out or System.err by a logger.(Ëî¡ÿ8°ß¤ùŒ.
+V
+squid:S1064"9Replace this use of System.out or System.err by a logger.(éÅç¯8°ß¤ùŒ.
+V
+squid:S106+"9Replace this use of System.out or System.err by a logger.(Ë«ù¦8°ß¤ùŒ.
+V
+squid:S106&"9Replace this use of System.out or System.err by a logger.(ë¾‘8°ß¤ùŒ.
+Zsquid:S1854"7Remove this useless assignment to local variable "dou".(€Å…ºùÿÿÿÿ8°ß¤ùŒ.
+Zsquid:S1854 "7Remove this useless assignment to local variable "dou".(Ûãê¾ûÿÿÿÿ8°ß¤ùŒ.
+`squid:S2184%"BCast one of the operands of this division operation to a "double".(Ì™ÊÇ8°ß¤ùŒ.
 [
-squid:S106:"9Replace this use of System.out or System.err by a logger.(İÂ¤áøÿÿÿÿ8°ß¤ùŒ.
-V
-squid:S1064"9Replace this use of System.out or System.err by a logger.(ú•€Ë8°ß¤ùŒ.
+squid:S106C"9Replace this use of System.out or System.err by a logger.(åŞŞûÿÿÿÿ8°ß¤ùŒ.
 [
-squid:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ8°ß¤ùŒ.
-fsquid:S2184&"HCast one of the operands of this multiplication operation to a "double".(ı‘Í8°ß¤ùŒ.
-^squid:S2184&"@Cast one of the operands of this integer division to a "double".(ı‘Í8°ß¤ùŒ.
-Zsquid:S1854$"7Remove this useless assignment to local variable "dou".(»Íçˆÿÿÿÿÿ8°ß¤ùŒ.
-V
-squid:S106*"9Replace this use of System.out or System.err by a logger.(Ëî¡ÿ8°ß¤ùŒ.
-V
-squid:S106/"9Replace this use of System.out or System.err by a logger.(»üñ‹8°ß¤ùŒ.
+squid:S106"9Replace this use of System.out or System.err by a logger.(·ùßóıÿÿÿÿ8°ß¤ùŒ.
 [
-squid:S1062"9Replace this use of System.out or System.err by a logger.(öÈÎŠÿÿÿÿÿ8°ß¤ùŒ.
+squid:S1060"9Replace this use of System.out or System.err by a logger.(öÈÎŠÿÿÿÿÿ8°ß¤ùŒ.
+hsquid:S1764-"JCorrect one of the identical sub-expressions on both sides of operator "%"(»üñ‹8°ß¤ùŒ.
+^squid:S2184$"@Cast one of the operands of this integer division to a "double".(ı‘Í8°ß¤ùŒ.
 V
-squid:S1061"9Replace this use of System.out or System.err by a logger.(ºµÍÜ8°ß¤ùŒ.
+squid:S1065"9Replace this use of System.out or System.err by a logger.(­éÕ–8°ß¤ùŒ.
+fsquid:S2184$"HCast one of the operands of this multiplication operation to a "double".(ı‘Í8°ß¤ùŒ.
+esquid:S2184"BCast one of the operands of this division operation to a "double".(€Å…ºùÿÿÿÿ8°ß¤ùŒ.
+V
+squid:S106/"9Replace this use of System.out or System.err by a logger.(ºµÍÜ8°ß¤ùŒ.
+[
+squid:S1066"9Replace this use of System.out or System.err by a logger.(•Òøˆûÿÿÿÿ8°ß¤ùŒ.
+Usquid:S1854!"7Remove this useless assignment to local variable "dou".(à´¯ß8°ß¤ùŒ.
+[
+squid:S1068"9Replace this use of System.out or System.err by a logger.(İÂ¤áøÿÿÿÿ8°ß¤ùŒ.
+Zsquid:S1854""7Remove this useless assignment to local variable "dou".(»Íçˆÿÿÿÿÿ8°ß¤ùŒ.
+V
+squid:S106-"9Replace this use of System.out or System.err by a logger.(»üñ‹8°ß¤ùŒ.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ8°ß¤ùŒ.
+Usquid:S1854$"7Remove this useless assignment to local variable "dou".(ı‘Í8°ß¤ùŒ.
+^squid:S2184%"@Cast one of the operands of this integer division to a "double".(Ì™ÊÇ8°ß¤ùŒ.
