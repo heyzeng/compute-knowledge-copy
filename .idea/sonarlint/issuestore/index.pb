@@ -29,3 +29,15 @@ Q
 !src/main/java/Day02/varTest4.java,6/d/6d3183f667855f1e5d31fc9171150bef5ca73287
 Q
 !src/main/java/Day02/varTest6.java,0/5/05aa90992cf9f038a39eb627655a348fc1c4a56b
+S
+#src/main/java/Day03/EqualsTest.java,d/e/de93091f02e9157fb4d94ff456da5b811ab4f4c2
+Q
+!src/main/java/Day03/ExerTest.java,1/0/10f9d3c540b3b46f00c9868504383a5f54d563d2
+R
+"src/main/java/Day03/LogicTest.java,f/7/f7e1cdd6506b8ce7868b691a3564402ae1698cc8
+P
+ src/main/java/Day03/ifTest2.java,0/d/0d70cef42930be44e6013b15d0708ca812ef93ff
+T
+$src/main/java/Day03/sanyuanTest.java,b/d/bdb718a0ddc170e2cc1c4e5874d892fbc9ced80e
+U
+%src/main/java/Day03/SetValueTest.java,8/4/84802b878c8f047f6e1d6aaf7e11ab8ac1d6f14e
