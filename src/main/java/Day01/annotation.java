@@ -14,7 +14,7 @@ package Day01;
 //下面的这个类是一个Demo
 
 /**
- @author 小龙哥
+ @author jude
  @version 1.0
 
  javadoc -d  开发工具的名字
