@@ -33,6 +33,5 @@ public class caseOne {
         }else {
             System.out.println("不嫁！");
         }
-
     }
 }
