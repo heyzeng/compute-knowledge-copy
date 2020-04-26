@@ -45,3 +45,13 @@ B
 project_01/pom.xml,e/6/e602be3d21beff22b73e3488eaa16a1147386f3d
 Q
 !src/main/java/Day04/DeadLoop.java,2/0/20bc30b2aeb27ae56120d6228f02324e7c467cfa
+P
+ src/main/java/Day04/caseOne.java,4/f/4f16eb7651957a9cc7cb40b07e8c672df7258662
+P
+ src/main/java/Day04/caseTwo.java,c/7/c7f73ada7d9a39f085b9ee9de551612b49c3d1bc
+R
+"src/main/java/Day04/caseThree.java,f/b/fb1112c1c9a5fd8d05e1a980778770696c41fc8e
+R
+"src/main/java/Day04/foobizbaz.java,5/0/50b5ac102c8ab2640c20a2fbe74c0fc4607037ec
+P
+ src/main/java/Day04/forTest.java,0/9/0943cad93fcb8a26e993a70ad33412913a1b0988
