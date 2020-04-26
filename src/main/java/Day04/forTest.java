@@ -36,7 +36,7 @@ public class forTest {
             }
 
         }
-
+        //输出
         System.out.println("sum = " + sum + " count = " + count);
     }
 }
