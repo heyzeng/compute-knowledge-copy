@@ -10,27 +10,24 @@ public class forTest2{
 
     public static void main(String[] args){
 
-        Scanner s = new Scanner(System.in);
-        boolean boo = true;
-        int positiveNumber = 0; //统计正数的个数
+        Scanner scanner = new Scanner(System.in);
+        int positiveNumber = 0;
+        boolean boo =true;
 
-        for(;boo;){
+        for (;boo;){
 
-            System.out.println("请输入一个数(输入0停止)");
+            System.out.println("请输入一个数");
+            int i = scanner.nextInt();
 
-            int number = s.nextInt();
-
-            //获取输入的数做以下事情 ：1.判断是否退出  2.统计正数
-            if(number == 0){
+            //开始判断
+            if (i == 0) {
                 boo = false;
-            }else if(number > 0){ //判断该数是否是正数
+                System.out.println("停止输入");
+            }else if (i >= 0){
                 positiveNumber++;
             }
-
-
         }
 
-        System.out.println("正数的个数=" + positiveNumber);
-
+        System.out.println("正数个数" + positiveNumber);
     }
 }
