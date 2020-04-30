@@ -11,23 +11,21 @@ public class forTest2{
     public static void main(String[] args){
 
         Scanner scanner = new Scanner(System.in);
-        int positiveNumber = 0;
-        boolean boo =true;
+        int positiveNum = 0;
+        boolean boo = true;
+//        int i = scanner.nextInt(); 不要在循环外输入数字
 
-        for (;boo;){
-
-            System.out.println("请输入一个数");
+       //不断输入数字要加死循环
+       while (boo){
             int i = scanner.nextInt();
-
-            //开始判断
-            if (i == 0) {
-                boo = false;
-                System.out.println("停止输入");
-            }else if (i >= 0){
-                positiveNumber++;
+            if (i == 0){
+                boo = false;//中断死循环条件
+                System.out.println("stop");
+            }else if (i > 0){
+                positiveNum++;
             }
-        }
+            System.out.println("positiveNum = " + positiveNum);
 
-        System.out.println("正数个数" + positiveNumber);
-    }
+        }
+        }
 }
