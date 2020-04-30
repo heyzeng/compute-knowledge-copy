@@ -57,3 +57,13 @@ P
  src/main/java/Day04/forTest.java,0/9/0943cad93fcb8a26e993a70ad33412913a1b0988
 Q
 !src/main/java/Day04/forTest2.java,4/e/4e0e3d357b9b6bffef50462e3198d1eaee99e1d6
+Q
+!src/main/java/Day04/forTest3.java,e/2/e2ab346c89cc919a469d88c35d08e89131da40d5
+S
+#src/main/java/Day04/stwichTest.java,2/5/25df2b1a22ed98e3adb668c81f0ff86551f25ad8
+T
+$src/main/java/Day04/switchTest2.java,6/d/6da76c466158f5afcb228fbf137bb69b64b0f0bf
+R
+"src/main/java/Day04/whileTest.java,a/4/a4fb6f3a67e5972b56bf069a9ba047f1dbc352f8
+Z
+*src/main/java/Day05/breakContinueTest.java,4/2/4272cd685bcdb1a74fc9a5847f88fb8612f17e05

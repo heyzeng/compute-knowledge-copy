@@ -1,18 +1,18 @@
 
-csquid:S2184("ECast one of the operands of this subtraction operation to a "double".(Õý›„8»ìƒ¡›.
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷ÇÃŸÿÿÿÿÿ
-nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‹ÑËûÿÿÿÿ8»ìƒ¡›.
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(ãÿÎ¾8»ìƒ¡›.
-V
-squid:S106/"9Replace this use of System.out or System.err by a logger.(€¾þ×8˜ç†¡›.
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(ýÛÓ¢úÿÿÿÿ8»ìƒ¡›.
-Vsquid:S1854("8Remove this useless assignment to local variable "num1".(Õý›„8»ìƒ¡›.
-bsquid:S2184)"ECast one of the operands of this subtraction operation to a "double".(©¼Ñ8»ìƒ¡›.
-Gsquid:S1481(")Remove this unused "num1" local variable.(Õý›„8»ìƒ¡›.
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(ƒ÷à»8»ìƒ¡›.
-Usquid:S1854)"8Remove this useless assignment to local variable "num2".(©¼Ñ8»ìƒ¡›.
-Fsquid:S1481)")Remove this unused "num2" local variable.(©¼Ñ8»ìƒ¡›.
-lsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(À¼ÞÔ8›¥„¡›.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒ÷à»8»ìƒ¡›.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(€¾þ×8˜ç†¡›.
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(À¼ÞÔ8›¥„¡›.
+Esquid:S1481")Remove this unused "num1" local variable.(Õý›„8»ìƒ¡›.
+Ssquid:S1854"8Remove this useless assignment to local variable "num2".(©¼Ñ8»ìƒ¡›.
+asquid:S2184"ECast one of the operands of this subtraction operation to a "double".(Õý›„8»ìƒ¡›.
+Tsquid:S1854"8Remove this useless assignment to local variable "num1".(Õý›„8»ìƒ¡›.
+Dsquid:S1481")Remove this unused "num2" local variable.(©¼Ñ8»ìƒ¡›.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãÿÎ¾8»ìƒ¡›.
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‹ÑËûÿÿÿÿ8»ìƒ¡›.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ýÛÓ¢úÿÿÿÿ8»ìƒ¡›.
+`squid:S2184"ECast one of the operands of this subtraction operation to a "double".(©¼Ñ8»ìƒ¡›.
+usquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷ÇÃŸÿÿÿÿÿ
