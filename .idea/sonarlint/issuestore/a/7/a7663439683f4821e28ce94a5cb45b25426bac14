@@ -1,0 +1,28 @@
+
+hsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¾ØÂÖÿÿÿÿÿ
+Rsquid:S1854"=Remove this useless assignment to local variable "maxString".(Âæ€½
+7squid:S1659""Declare "num2" on a separate line.(Ÿ€ˆî
+4squid:S1659" Declare "bb" on a separate line.(¬à¢Q
+4squid:S1659" Declare "cc" on a separate line.(¬à¢Q
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾ùôŒùÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ğ³æÂûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ğ³æÂûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(­ğ»œüÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(şæ£ñşÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(‡™…Ñÿÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(şæ£ñşÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÌâÚÁøÿÿÿÿ
+^squid:S3358"DExtract this nested ternary operation into an independent statement.(±ÙÜùÿÿÿÿ
+^squid:S3358"DExtract this nested ternary operation into an independent statement.(±ÙÜùÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(š©Ü°ÿÿÿÿÿ
+Csquid:S1481".Remove this unused "maxString" local variable.(Âæ€½
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(®ùøïüÿÿÿÿ

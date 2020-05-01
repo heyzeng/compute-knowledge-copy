@@ -1,0 +1,46 @@
+
+\squid:S2184"BCast one of the operands of this division operation to a "double".(€Å…ºùÿÿÿÿ
+]squid:S2184"HCast one of the operands of this multiplication operation to a "double".(ýŽ‘Í
+Usquid:S2184"@Cast one of the operands of this integer division to a "double".(ýŽ‘Í
+Wsquid:S2184"BCast one of the operands of this division operation to a "double".(Ì™ÊÇ
+Usquid:S2184"@Cast one of the operands of this integer division to a "double".(Ì™ÊÇ
+Lsquid:S1854"7Remove this useless assignment to local variable "dou".(ýŽ‘Í
+Qsquid:S1854"7Remove this useless assignment to local variable "dou".(»Íçˆÿÿÿÿÿ
+Lsquid:S1854"7Remove this useless assignment to local variable "dou".(à´¯ß
+Qsquid:S1854"7Remove this useless assignment to local variable "dou".(Ûãê¾ûÿÿÿÿ
+Qsquid:S1854"7Remove this useless assignment to local variable "dou".(€Å…ºùÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(·ùßóýÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(žë¾‘
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ëî¡ÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ë«ù¦
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(žúö—
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(»üñ‹
+_squid:S1764"JCorrect one of the identical sub-expressions on both sides of operator "%"(»üñ‹
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ôé¯Óúÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ºµÍÜ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(öÈÎŠÿÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ú•€Ë
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(éÅç¯
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(­éÕ–
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(•Òøˆûÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÝÂ¤áøÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(åÞÞžûÿÿÿÿ
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÂÒß5

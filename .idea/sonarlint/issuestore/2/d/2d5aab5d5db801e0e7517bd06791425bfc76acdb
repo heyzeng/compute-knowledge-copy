@@ -1,0 +1,12 @@
+
+csquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ã·Ù»
+Jsquid:S1854"5Remove this useless assignment to local variable "d".(Ú“Æë
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(‡¤Ÿ”
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(²”Áã
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(·ùßóýÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(Á¨‡£ûÿÿÿÿ
+;squid:S1481"&Remove this unused "d" local variable.(Ú“Æë

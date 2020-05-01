@@ -1,8 +1,0 @@
-
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(ûåóˆ8¹ÌÓ¥š.
-gsquid:S2583"DChange this condition so that it does not always evaluate to "false"(ÃÔ·°ûÿÿÿÿ8´Ë×¥š.
-Ksquid:S1125"(Remove the literal "true" boolean value.(ÃÔ·°ûÿÿÿÿ8´Ë×¥š.
-rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶„²¦
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(äã–8ƒàÔ¥š.

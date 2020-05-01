@@ -2,40 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf7bbc12-efb5-4f3f-9f6f-e08cc99815e5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Java/Day02/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Day02/src/main/java/ArithmeticTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Day02/src/main/java/NTtest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Day02/src/main/java/VarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Day02/src/main/java/identifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Day02/src/main/java/varTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Day02/src/main/java/varTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Day02/src/main/java/varTest4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Day02/src/main/java/varTest5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Day02/src/main/java/varTest6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Day03/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Day03/src/main/java/BitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Day03/src/main/java/EqualsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Day03/src/main/java/ExerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Day03/src/main/java/LogicTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Day03/src/main/java/SetValueTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Day03/src/main/java/ifTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Day03/src/main/java/ifTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Day03/src/main/java/sanyuanTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Day04/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Day04/src/main/java/DeadLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Day04/src/main/java/caseOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Day04/src/main/java/caseThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Day04/src/main/java/caseTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Day04/src/main/java/foobizbaz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Day04/src/main/java/forTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Day04/src/main/java/forTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Day04/src/main/java/forTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Day04/src/main/java/stwichTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Day04/src/main/java/switchTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Day04/src/main/java/whileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Day05/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Day05/src/main/java/breakContinueTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Java/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Day05/src/main/java/DoWhileTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/05aa90992cf9f038a39eb627655a348fc1c4a56b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/0943cad93fcb8a26e993a70ad33412913a1b0988" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0d70cef42930be44e6013b15d0708ca812ef93ff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0dc05166d1c46eb7b26641fdd3b7044ce8a35109" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/0/107f8f9c93dee5511b82462bd4a9e750fa6cb317" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/0/10f9d3c540b3b46f00c9868504383a5f54d563d2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/0/20bc30b2aeb27ae56120d6228f02324e7c467cfa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/5/25df2b1a22ed98e3adb668c81f0ff86551f25ad8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/4272cd685bcdb1a74fc9a5847f88fb8612f17e05" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4e0e3d357b9b6bffef50462e3198d1eaee99e1d6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4f16eb7651957a9cc7cb40b07e8c672df7258662" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/0/50b5ac102c8ab2640c20a2fbe74c0fc4607037ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/b/5b52c790e34787450b95d38bb52ae602f354dcaf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5e4a73bb4b493b444e3ec6b5fa725d58f61986e1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/8/688465ff9fe69cd7a184ac989d0aafa852cc6917" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d3183f667855f1e5d31fc9171150bef5ca73287" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6da76c466158f5afcb228fbf137bb69b64b0f0bf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/0/8075a5296fff1cc172de855fce787a3b7069ef54" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/4/84802b878c8f047f6e1d6aaf7e11ab8ac1d6f14e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ec753b86113c39f3788a892231f9ca2619812f4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/1/9109b7ff9c8024e84bd86dcc89da1c62dd741a89" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a4fb6f3a67e5972b56bf069a9ba047f1dbc352f8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/d/bdb718a0ddc170e2cc1c4e5874d892fbc9ced80e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/7/c7f73ada7d9a39f085b9ee9de551612b49c3d1bc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d48a81ca9eb3fce8ff7bcac40f48c2e51a66f16b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/e/de93091f02e9157fb4d94ff456da5b811ab4f4c2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/2/e2ab346c89cc919a469d88c35d08e89131da40d5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/ea621209bf771a9e6e29a64aa1ae284ce11495eb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/ebe5ac8dd94e8555736ee523b73db409e6db48f7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f215bb14e6a2c7480524187814063cf06f8b8717" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/7/f7e1cdd6506b8ce7868b691a3564402ae1698cc8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/b/fb1112c1c9a5fd8d05e1a980778770696c41fc8e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -59,11 +60,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="forTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Java/Day04/src/main/java/forTest.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file leaf-file-name="forTest2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Java/Day04/src/main/java/forTest2.java">
           <provider selected="true" editor-type-id="text-editor" />
@@ -101,15 +97,24 @@
       </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Java/Day05/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="breakContinueTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="breakContinueTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Java/Day05/src/main/java/breakContinueTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+            <state relative-caret-position="382">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DoWhileTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Java/Day05/src/main/java/DoWhileTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -171,6 +176,7 @@
         <option value="$PROJECT_DIR$/Java/Day03/src/main/java/EqualsTest.java" />
         <option value="$PROJECT_DIR$/Java/Day04/src/main/java/foobizbaz.java" />
         <option value="$PROJECT_DIR$/Java/Day05/src/main/java/breakContinueTest.java" />
+        <option value="$PROJECT_DIR$/Java/Day05/src/main/java/DoWhileTest.java" />
       </list>
     </option>
   </component>
@@ -208,9 +214,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -226,12 +230,39 @@
             <path>
               <item name="JavaBasic" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaBasic" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Day05" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaBasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaBasic" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Day05" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaBasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaBasic" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Day05" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaBasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaBasic" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Day05" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -271,7 +302,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.breakContinueTest">
+  <component name="RunManager" selected="Application.DoWhileTest">
+    <configuration name="DoWhileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DoWhileTest" />
+      <module name="Day05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -282,17 +318,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Day05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="forTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day04.forTest2" />
-      <module name="JavaBasic" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -369,19 +394,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.forTest2" />
       <item itemvalue="Application.forTest3" />
       <item itemvalue="Application.stwichTest" />
       <item itemvalue="Application.whileTest" />
       <item itemvalue="Application.breakContinueTest" />
+      <item itemvalue="Application.DoWhileTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DoWhileTest" />
         <item itemvalue="Application.breakContinueTest" />
         <item itemvalue="Application.whileTest" />
         <item itemvalue="Application.stwichTest" />
         <item itemvalue="Application.forTest3" />
-        <item itemvalue="Application.forTest2" />
       </list>
     </recent_temporary>
   </component>
@@ -413,7 +438,8 @@
       <workItem from="1588212797527" duration="5331000" />
       <workItem from="1588237478201" duration="776000" />
       <workItem from="1588238270077" duration="118000" />
-      <workItem from="1588238435885" duration="479000" />
+      <workItem from="1588238435885" duration="749000" />
+      <workItem from="1588300320918" duration="484000" />
     </task>
     <task id="LOCAL-00001" summary="dayTwo">
       <created>1582474347910</created>
@@ -433,36 +459,37 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26475000" />
+    <option name="totallyTimeSpent" value="27229000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="798" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="801" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3283582" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23507462" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32914045" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23426062" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.75147057" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4985294" visible="true" weight="0.26372832" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4985294" visible="true" weight="0.26878613" />
       <window_info anchor="bottom" id="SonarLint" order="7" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.50147057" side_tool="true" weight="0.25361273" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3283582" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -512,96 +539,35 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Day04/caseTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1188">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Day04/caseThree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day04/caseThree.java" />
     <entry file="file://$PROJECT_DIR$/数据/pom.xml" />
     <entry file="file://$PROJECT_DIR$/数据/src/main/java/some.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Day04/forTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Day04/foobizbaz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Day04/forTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Day04/stwichTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="891">
-          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Day04/switchTest2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1458">
-          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Day04/whileTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day04/forTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day04/foobizbaz.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day04/forTest2.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day04/stwichTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day04/switchTest2.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day04/whileTest.java" />
     <entry file="file://$PROJECT_DIR$/java-basic/Day01/pom.xml" />
     <entry file="file://$PROJECT_DIR$/java-basic/Day06/pom.xml" />
     <entry file="file://$PROJECT_DIR$/java-basic/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Day05/breakContinueTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="43" column="41" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Day04/forTest3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day05/breakContinueTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Day04/forTest3.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="371">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Java/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Java/Day01/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Java/Day01/src/main/java/annotation.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -611,8 +577,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Java/Day02/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Java/Day02/src/main/java/varTest4.java">
       <provider selected="true" editor-type-id="text-editor" />
@@ -648,8 +614,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Java/Day03/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Java/Day03/src/main/java/ExerTest.java">
       <provider selected="true" editor-type-id="text-editor" />
@@ -678,8 +644,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Java/Day04/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Java/Day04/src/main/java/stwichTest.java">
       <provider selected="true" editor-type-id="text-editor" />
@@ -712,13 +678,20 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Java/Day05/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Java/Day05/src/main/java/breakContinueTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        <state relative-caret-position="382">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/Day05/src/main/java/DoWhileTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
         </state>
       </provider>
     </entry>

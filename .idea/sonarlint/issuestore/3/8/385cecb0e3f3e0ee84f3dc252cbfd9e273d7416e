@@ -1,0 +1,6 @@
+
+hsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ô—ƒäÿÿÿÿÿ
+Ssquid:S1854">Remove this useless assignment to local variable "personName".(ßÛÞË
+Wsquid:S1854"=Remove this useless assignment to local variable "personAge".(äí›óþÿÿÿÿ
+Hsquid:S1481".Remove this unused "personAge" local variable.(äí›óþÿÿÿÿ
+Dsquid:S1481"/Remove this unused "personName" local variable.(ßÛÞË

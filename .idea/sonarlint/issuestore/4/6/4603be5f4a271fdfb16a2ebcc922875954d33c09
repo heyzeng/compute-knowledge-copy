@@ -1,0 +1,40 @@
+
+€squid:S1192"kDefine a constant instead of duplicating this literal "------------------------------------------" 4 times.(ÆÀ³À
+Psquid:S1854";Remove this useless assignment to local variable "number2".(ìôŒŸ
+:squid:S1659" Declare "n2" on a separate line.(ˆá¿¥ıÿÿÿÿ
+:squid:S1659" Declare "n3" on a separate line.(ˆá¿¥ıÿÿÿÿ
+6squid:S1659"!Declare "nu2" on a separate line.(ü¯Ïá
+6squid:S1659"!Declare "nu3" on a separate line.(ü¯Ïá
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(©¨ÑÈùÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÆÀ³À
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚¨Ö§
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÆÀ³À
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ó¥öÔ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.( Ùâø
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÆÀ³À
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(®ŠÓÈûÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÆÀ³À
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(Î±ä
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹ÿî­
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒ» ûÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ëáÀÉ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(àÖÏ¢
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(œ¾µ
+Asquid:S1481",Remove this unused "number2" local variable.(ìôŒŸ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ìôŒŸ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ë ù¥úÿÿÿÿ
