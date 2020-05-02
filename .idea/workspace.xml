@@ -227,7 +227,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DoWhileTest">
+  <component name="RunManager" selected="Application.doWhileTest02">
     <configuration name="DoWhileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DoWhileTest" />
       <module name="Day05" />
@@ -247,16 +247,10 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="forTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day04.forTest3" />
-      <module name="JavaBasic" />
+    <configuration name="doWhileTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="doWhileTest02" />
+      <module name="Day05" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration name="stwichTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day04.stwichTest" />
@@ -319,19 +313,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.forTest3" />
       <item itemvalue="Application.stwichTest" />
       <item itemvalue="Application.whileTest" />
       <item itemvalue="Application.breakContinueTest" />
       <item itemvalue="Application.DoWhileTest" />
+      <item itemvalue="Application.doWhileTest02" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.doWhileTest02" />
         <item itemvalue="Application.DoWhileTest" />
         <item itemvalue="Application.breakContinueTest" />
         <item itemvalue="Application.whileTest" />
         <item itemvalue="Application.stwichTest" />
-        <item itemvalue="Application.forTest3" />
       </list>
     </recent_temporary>
   </component>
