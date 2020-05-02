@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf7bbc12-efb5-4f3f-9f6f-e08cc99815e5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Java/Day05/src/main/java/doWhileTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Day05/src/main/java/doWhileTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Day05/src/main/java/doWhileTest02.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -38,8 +38,11 @@
       <file leaf-file-name="doWhileTest02.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Java/Day05/src/main/java/doWhileTest02.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
+            <state relative-caret-position="37">
+              <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#338#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -358,7 +361,7 @@
       <workItem from="1588237478201" duration="776000" />
       <workItem from="1588238270077" duration="118000" />
       <workItem from="1588238435885" duration="749000" />
-      <workItem from="1588300320918" duration="911000" />
+      <workItem from="1588300320918" duration="1203000" />
     </task>
     <task id="LOCAL-00001" summary="dayTwo">
       <created>1582474347910</created>
@@ -378,11 +381,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27656000" />
+    <option name="totallyTimeSpent" value="27948000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="801" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -394,11 +396,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32914045" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23426062" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.7510981" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4407028" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.7510981" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4985294" visible="true" weight="0.26878613" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4985294" visible="true" weight="0.26878613" />
       <window_info anchor="bottom" id="SonarLint" order="7" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.50147057" side_tool="true" weight="0.25361273" />
@@ -621,8 +623,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Java/Day05/src/main/java/doWhileTest02.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="37">
+          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#338#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
