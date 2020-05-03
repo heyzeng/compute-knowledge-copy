@@ -19,6 +19,7 @@ public class doWhileTest02 {
 
         do{
             System.out.println("do - while");
+
         }while(boo);
 
     }
