@@ -1,8 +1,8 @@
 
-Ysquid:S2589"8Remove this expression which always evaluates to "false"(ğÙ¥âÿÿÿÿÿ8›³œ°.
-`squid:S2583"DChange this condition so that it does not always evaluate to "false"(‹ğÄÃ8›³œ°.
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(Û£™¯ûÿÿÿÿ8›³œ°.
 Y
 squid:S106"9Replace this use of System.out or System.err by a logger.(¿™Ôøÿÿÿÿ8›³œ°.
 csquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(æâğÒ
+Ysquid:S2589"8Remove this expression which always evaluates to "false"(ğÙ¥âÿÿÿÿÿ8›³œ°.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Û£™¯ûÿÿÿÿ8›³œ°.
+`squid:S2583"DChange this condition so that it does not always evaluate to "false"(‹ğÄÃ8›³œ°.

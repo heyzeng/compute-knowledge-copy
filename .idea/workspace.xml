@@ -2,15 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf7bbc12-efb5-4f3f-9f6f-e08cc99815e5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Java/Day06/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Day06/src/main/java/com/exer/Demo2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8d19d9295ce54ad1a0d760d81aae232200d83efa" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8d19d9295ce54ad1a0d760d81aae232200d83efa" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/f/8f010cf6f91acb70f5085dc6c50f8783bf47d778" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/f/8f010cf6f91acb70f5085dc6c50f8783bf47d778" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/bac9dc62a683c2815e9c0845ccf7544114712b9e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/bac9dc62a683c2815e9c0845ccf7544114712b9e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/be132302fa24726c7fd4321ea94e75e6c6d54e76" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/be132302fa24726c7fd4321ea94e75e6c6d54e76" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca7d6bb9c1739d3dc2919cbb4caf507d4940abc8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca7d6bb9c1739d3dc2919cbb4caf507d4940abc8" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/daa5d6d7f546da9e9f7ab0142fd3eeeaf6403c63" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/daa5d6d7f546da9e9f7ab0142fd3eeeaf6403c63" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e9801358c981186e8c1a0b647645d39897586c66" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e9801358c981186e8c1a0b647645d39897586c66" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Java/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Day06/src/main/java/com/exer/Demo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Day06/src/main/java/com/exer/Demo01.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,15 +34,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="DoWhileTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Java/Day05/src/main/java/DoWhileTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1107">
-              <caret line="41" column="35" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="doWhileTest02.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Java/Day05/src/main/java/doWhileTest02.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -89,16 +82,47 @@
       <file leaf-file-name="primeTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Java/Day05/src/main/java/primeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
+            <state relative-caret-position="621">
               <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Java/Day06/pom.xml">
           <provider selected="true" editor-type-id="text-editor" />
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        </entry>
+      </file>
+      <file leaf-file-name="Demo01.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Java/Day06/src/main/java/com/exer/Demo01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#399#414#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2503">
+              <caret line="2221" column="44" selection-start-line="2221" selection-start-column="44" selection-end-line="2221" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Java/Day06/src/main/java/com/exer/Demo2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -148,6 +172,8 @@
         <option value="$PROJECT_DIR$/Java/Day05/src/main/java/forForTest.java" />
         <option value="$PROJECT_DIR$/Java/Day05/src/main/java/nineNineTest.java" />
         <option value="$PROJECT_DIR$/Java/Day05/src/main/java/primeTest.java" />
+        <option value="$PROJECT_DIR$/Java/Day06/src/main/java/com/exer/Demo01.java" />
+        <option value="$PROJECT_DIR$/Java/Day06/src/main/java/com/exer/Demo2.java" />
       </list>
     </option>
   </component>
@@ -173,7 +199,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -185,7 +211,6 @@
     <panes>
       <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -236,12 +261,24 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaBasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaBasic" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Day06" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="exer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -268,17 +305,34 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.primeTest">
+  <component name="RunManager" selected="Application.Demo2">
+    <configuration name="Demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exer.Demo01" />
+      <module name="Day06" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exer.Demo2" />
+      <module name="Day06" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.exer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="forForTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="forForTest" />
-      <module name="Day05" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="forTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="forTest" />
       <module name="Day05" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -290,11 +344,6 @@
     <configuration name="primeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="primeTest" />
       <module name="Day05" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="some" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="some" />
-      <module name="数据" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -336,19 +385,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.some" />
-      <item itemvalue="Application.forTest (1)" />
       <item itemvalue="Application.forForTest" />
       <item itemvalue="Application.nineNineTest" />
       <item itemvalue="Application.primeTest" />
+      <item itemvalue="Application.Demo01" />
+      <item itemvalue="Application.Demo2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo2" />
+        <item itemvalue="Application.Demo01" />
         <item itemvalue="Application.primeTest" />
         <item itemvalue="Application.nineNineTest" />
         <item itemvalue="Application.forForTest" />
-        <item itemvalue="Application.forTest (1)" />
-        <item itemvalue="Application.some" />
       </list>
     </recent_temporary>
   </component>
@@ -380,7 +429,8 @@
       <workItem from="1588687899353" duration="607000" />
       <workItem from="1588726631795" duration="1654000" />
       <workItem from="1588728615410" duration="1372000" />
-      <workItem from="1588731003052" duration="249000" />
+      <workItem from="1588731003052" duration="369000" />
+      <workItem from="1588754584495" duration="1951000" />
     </task>
     <task id="LOCAL-00001" summary="dayTwo">
       <created>1582474347910</created>
@@ -400,40 +450,41 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23083000" />
+    <option name="totallyTimeSpent" value="25154000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32809225" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23258707" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32914045" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2835821" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23258707" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2835821" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26228324" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26734105" />
       <window_info anchor="bottom" id="SonarLint" order="7" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32809225" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -479,10 +530,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Day01/annotation.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Day01/First_Program_Summary.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Day02/identifier.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Day01/annotation.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Day01/First_Program_Summary.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Day02/identifier.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -570,7 +617,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Java/Day05/src/main/java/primeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
+        <state relative-caret-position="621">
           <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
         </state>
       </provider>
@@ -578,6 +625,38 @@
     <entry file="file://$PROJECT_DIR$/Java/Day06/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/Day06/src/main/java/com/exer/Demo01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#399#414#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_221.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2503">
+          <caret line="2221" column="44" selection-start-line="2221" selection-start-column="44" selection-end-line="2221" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/Day05/src/main/java/DoWhileTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1107">
+          <caret line="41" column="35" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/Day06/src/main/java/com/exer/Demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">

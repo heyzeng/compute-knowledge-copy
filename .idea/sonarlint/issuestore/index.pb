@@ -85,3 +85,7 @@ Z
 *Java/Day05/src/main/java/nineNineTest.java,8/d/8d19d9295ce54ad1a0d760d81aae232200d83efa
 W
 'Java/Day05/src/main/java/primeTest.java,b/e/be132302fa24726c7fd4321ea94e75e6c6d54e76
+B
+Java/Day06/pom.xml,a/8/a87da2f4aac4f63f157889aba4f0749ea3352bd9
+]
+-Java/Day06/src/main/java/com/exer/Demo01.java,0/f/0f29014eabfd44a9082c52c01aa2e081d4d37574
