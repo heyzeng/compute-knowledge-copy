@@ -77,3 +77,9 @@ Y
 +Java/Day05/src/main/java/doWhileTest02.java,c/a/ca7d6bb9c1739d3dc2919cbb4caf507d4940abc8
 U
 %Java/Day05/src/main/java/forTest.java,e/9/e9801358c981186e8c1a0b647645d39897586c66
+X
+(Java/Day01/src/main/java/annotation.java,8/f/8f010cf6f91acb70f5085dc6c50f8783bf47d778
+X
+(Java/Day05/src/main/java/forForTest.java,b/a/bac9dc62a683c2815e9c0845ccf7544114712b9e
+Z
+*Java/Day05/src/main/java/nineNineTest.java,8/d/8d19d9295ce54ad1a0d760d81aae232200d83efa
