@@ -1,8 +1,8 @@
 
-bsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¬`
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(Χ•²8‹™Ό.
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ύÿÿÿÿ8ών›Ό.
 Y
 squid:S106"9Replace this use of System.out or System.err by a logger.(ΜψΆύÿÿÿÿ8©–Ό.
+bsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¬`
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ύÿÿÿÿ8ών›Ό.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Χ•²8‹™Ό.

@@ -11,11 +11,11 @@
         <module name="Day03" />
         <module name="Day04" />
         <module name="Day05" />
+        <module name="Day06" />
         <module name="project_01" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Day06" target="1.8" />
       <module name="java-basic" target="1.8" />
       <module name="数据" target="1.8" />
     </bytecodeTargetLevel>

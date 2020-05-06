@@ -2,17 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf7bbc12-efb5-4f3f-9f6f-e08cc99815e5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Java/Day05/src/main/java/nineNineTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Day05/src/main/java/primeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82a849f23a9d4c237527a6ec255355a2f391c08a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82a849f23a9d4c237527a6ec255355a2f391c08a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Day06/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8d19d9295ce54ad1a0d760d81aae232200d83efa" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8d19d9295ce54ad1a0d760d81aae232200d83efa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/f/8f010cf6f91acb70f5085dc6c50f8783bf47d778" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/f/8f010cf6f91acb70f5085dc6c50f8783bf47d778" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/bac9dc62a683c2815e9c0845ccf7544114712b9e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/bac9dc62a683c2815e9c0845ccf7544114712b9e" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca7d6bb9c1739d3dc2919cbb4caf507d4940abc8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca7d6bb9c1739d3dc2919cbb4caf507d4940abc8" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/daa5d6d7f546da9e9f7ab0142fd3eeeaf6403c63" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/daa5d6d7f546da9e9f7ab0142fd3eeeaf6403c63" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e9801358c981186e8c1a0b647645d39897586c66" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e9801358c981186e8c1a0b647645d39897586c66" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Day05/src/main/java/forForTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Day05/src/main/java/forForTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Day05/target/classes/doWhileTest02.class" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Day05/target/classes/doWhileTest02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Day05/target/classes/forTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Day05/target/classes/forTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Java/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,6 +22,7 @@
     <ignored path="$PROJECT_DIR$/Java/Day05/target/" />
     <ignored path="$PROJECT_DIR$/Java/Day01/target/" />
     <ignored path="$PROJECT_DIR$/Java/Day02/target/" />
+    <ignored path="$PROJECT_DIR$/Java/Day06/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,13 +86,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="primeTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="primeTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Java/Day05/src/main/java/primeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+            <state relative-caret-position="464">
+              <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Java/Day06/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
         </entry>
       </file>
     </leaf>
@@ -168,7 +173,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -180,6 +185,7 @@
     <panes>
       <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -196,20 +202,20 @@
               <item name="JavaBasic" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaBasic" type="462c0819:PsiDirectoryNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="Day05" type="462c0819:PsiDirectoryNode" />
+              <item name="Day06" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaBasic" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaBasic" type="462c0819:PsiDirectoryNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="Day05" type="462c0819:PsiDirectoryNode" />
+              <item name="Day06" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaBasic" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaBasic" type="462c0819:PsiDirectoryNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="Day05" type="462c0819:PsiDirectoryNode" />
+              <item name="Day06" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -217,16 +223,25 @@
               <item name="JavaBasic" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaBasic" type="462c0819:PsiDirectoryNode" />
               <item name="Java" type="462c0819:PsiDirectoryNode" />
-              <item name="Day05" type="462c0819:PsiDirectoryNode" />
+              <item name="Day06" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaBasic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaBasic" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+              <item name="Day06" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -364,7 +379,8 @@
       <workItem from="1588520654165" duration="476000" />
       <workItem from="1588687899353" duration="607000" />
       <workItem from="1588726631795" duration="1654000" />
-      <workItem from="1588728615410" duration="1214000" />
+      <workItem from="1588728615410" duration="1372000" />
+      <workItem from="1588731003052" duration="249000" />
     </task>
     <task id="LOCAL-00001" summary="dayTwo">
       <created>1582474347910</created>
@@ -384,41 +400,40 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22676000" />
+    <option name="totallyTimeSpent" value="23083000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32809225" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23258707" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32914045" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23258707" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2835821" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2835821" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25722542" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26228324" />
       <window_info anchor="bottom" id="SonarLint" order="7" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32809225" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -464,7 +479,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Day02/ArithmeticTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Day01/annotation.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Day01/First_Program_Summary.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Day02/identifier.java" />
@@ -556,10 +570,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Java/Day05/src/main/java/primeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="13" column="31" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        <state relative-caret-position="464">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/Day06/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
   </component>
   <component name="masterDetails">

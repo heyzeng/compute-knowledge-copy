@@ -83,3 +83,5 @@ X
 (Java/Day05/src/main/java/forForTest.java,b/a/bac9dc62a683c2815e9c0845ccf7544114712b9e
 Z
 *Java/Day05/src/main/java/nineNineTest.java,8/d/8d19d9295ce54ad1a0d760d81aae232200d83efa
+W
+'Java/Day05/src/main/java/primeTest.java,b/e/be132302fa24726c7fd4321ea94e75e6c6d54e76
