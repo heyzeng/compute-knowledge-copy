@@ -81,3 +81,17 @@ X
 (Java/Day01/src/main/java/annotation.java,8/f/8f010cf6f91acb70f5085dc6c50f8783bf47d778
 X
 (Java/Day05/src/main/java/forForTest.java,b/a/bac9dc62a683c2815e9c0845ccf7544114712b9e
+]
+-Java/Day06/src/main/java/com/exer/Demo01.java,0/f/0f29014eabfd44a9082c52c01aa2e081d4d37574
+]
+-Java/Day06/src/main/java/com/exer/Demo03.java,d/0/d0e9f1c58cc4313b7fae55b078b69aadd034a9f2
+]
+-Java/Day06/src/main/java/com/exer/Demo02.java,7/4/7427e23ac618701755149b1296dac19d3cde0230
+]
+-Java/Day06/src/main/java/com/exer/Demo04.java,9/9/998f094c9e19fd4093d51766ac05fc3bfe617296
+d
+4Java/Day06/src/main/java/com/exer2/BinarySearch.java,d/3/d3be5915b4ee55be2b4a9db6cea517bf6bcb8d10
+b
+2Java/Day06/src/main/java/com/exer2/bubbleSort.java,5/f/5ff56830eab4b4d3a826c8da7c499ca08e8d45c9
+B
+Java/Day06/pom.xml,a/8/a87da2f4aac4f63f157889aba4f0749ea3352bd9
