@@ -11,3 +11,9 @@ B
 ,Java/chapter01/src/main/java/annotation.java,e/6/e6487d2ef1723d2f9f46f8619f2d6301b422d1e7
 g
 7Java/chapter06/src/main/java/com/example/arrayTest.java,0/2/02ccb037f6205179386e607bcb2dd6e406afd0f2
+F
+Java/chapter07/pom.xml,4/b/4bcabb3d1c15c1ed88ee286a84c09bef82ec5acd
+F
+Java/chapter06/pom.xml,d/6/d6bcb23ff043a4529fc186feec94583650b4299e
+F
+Java/chapter05/pom.xml,e/5/e57ab30d92fd91c98d4f98076204532420bf0410
