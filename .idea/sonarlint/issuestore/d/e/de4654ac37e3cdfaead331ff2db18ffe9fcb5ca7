@@ -1,9 +1,0 @@
-
-hsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¸ÍçÛýÿÿÿÿ
-Psquid:S1854";Remove this useless assignment to local variable "number3".(¼ñ‚Ò
-Osquid:S1854"5Remove this useless assignment to local variable "c".(«¹Âµùÿÿÿÿ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(±¹ˆ¼úÿÿÿÿ
-@squid:S1481"&Remove this unused "c" local variable.(«¹Âµùÿÿÿÿ
-Asquid:S1481",Remove this unused "number3" local variable.(¼ñ‚Ò
-_squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‡€¹)

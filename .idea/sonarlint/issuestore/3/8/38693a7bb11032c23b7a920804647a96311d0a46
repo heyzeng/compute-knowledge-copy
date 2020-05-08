@@ -1,32 +1,0 @@
-
-squid:S1192"lDefine a constant instead of duplicating this literal "-------------------------------------------" 3 times.(ËŞõŒ
-csquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¼ƒç¥
-Jsquid:S1854"5Remove this useless assignment to local variable "c".(åƒé¸
-Osquid:S1854"5Remove this useless assignment to local variable "c".(›ÎÚ°úÿÿÿÿ
-Jsquid:S1854"5Remove this useless assignment to local variable "c".(ñİäº
-Isquid:S1854"5Remove this useless assignment to local variable "c".(ò­®g
-Jsquid:S1854"5Remove this useless assignment to local variable "c".(ÈÎï
-Jsquid:S1854"5Remove this useless assignment to local variable "d".(•½¸›
-Rsquid:S1854"8Remove this useless assignment to local variable "num2".(€ğÄÀøÿÿÿÿ
-Lsquid:S1854"7Remove this useless assignment to local variable "num".(Â•€¹
-Jsquid:S1854"5Remove this useless assignment to local variable "s".(‡ÃÆ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(·ùßóıÿÿÿÿ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(ËŞõŒ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(‡¤Ÿ”
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(¯ô¢ô
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(ËŞõŒ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(Áß‡Ü
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(ËŞõŒ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(ı¯İãÿÿÿÿÿ
-;squid:S1481"&Remove this unused "s" local variable.(‡ÃÆ
-=squid:S1481"(Remove this unused "num" local variable.(Â•€¹
-Csquid:S1481")Remove this unused "num2" local variable.(€ğÄÀøÿÿÿÿ
-esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÖÜ¤‘ûÿÿÿÿ

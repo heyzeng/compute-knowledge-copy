@@ -1,18 +1,0 @@
-
-[squid:S1192"FDefine a constant instead of duplicating this literal "num1=" 4 times.(°òïü
-asquid:S1192"GDefine a constant instead of duplicating this literal ",num2=" 6 times.(Ü”Ê³ÿÿÿÿÿ
-Xsquid:S2583"CChange this condition so that it does not always evaluate to "true"(˜á¬µ
-csquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(±›
-\squid:S1192"GDefine a constant instead of duplicating this literal ",num3=" 4 times.(°òïü
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(°òïü
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(°òïü
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ü”Ê³ÿÿÿÿÿ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ü”Ê³ÿÿÿÿÿ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÿÙ­İúÿÿÿÿ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÿÙ­İúÿÿÿÿ

@@ -1,7 +1,0 @@
-
-^squid:S2583"DChange this condition so that it does not always evaluate to "false"(ÃÔ·°ûÿÿÿÿ
-Bsquid:S1125"(Remove the literal "true" boolean value.(ÃÔ·°ûÿÿÿÿ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(ûåóˆ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(äã–

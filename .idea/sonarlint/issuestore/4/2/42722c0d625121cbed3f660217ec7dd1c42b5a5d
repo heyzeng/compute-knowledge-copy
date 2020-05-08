@@ -1,19 +1,0 @@
-
-Lsquid:S2589"7Remove this expression which always evaluates to "true"(‹–¹†
-Qsquid:S2589"7Remove this expression which always evaluates to "true"(€ÿÕûÿÿÿÿ
-L
-squid:S106"9Replace this use of System.out or System.err by a logger.(¥ÖC
-L
-squid:S106"9Replace this use of System.out or System.err by a logger.(¥ÖC
-.squid:S2178"Correct this "|" to "||".(‹–¹†
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(»¼ÆÚüÿÿÿÿ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(ŞªìÈÿÿÿÿÿ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(»¼ÆÚüÿÿÿÿ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(‘ÙëÚ
-`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¸èÍÓ
-`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(­›Ò
-_squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ò°½P

@@ -1,26 +1,0 @@
-
-csquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¬ê‚º
-Msquid:S1854"8Remove this useless assignment to local variable "str2".(ÏÓìñ
-5squid:S2129" Remove this "String" constructor(Üó¾Ò
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
-L
-squid:S106"9Replace this use of System.out or System.err by a logger.(œ™À
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ïíõšûÿÿÿÿ
-L
-squid:S106"9Replace this use of System.out or System.err by a logger.(âùÏ=
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ïƒ
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ú‰£
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(€æ³ùşÿÿÿÿ
-L
-squid:S106"9Replace this use of System.out or System.err by a logger.(¼ü¶5
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(€¹Õ­
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(ñî¡ï
-esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ä’õòÿÿÿÿÿ
-esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(÷‹¸üÿÿÿÿ
