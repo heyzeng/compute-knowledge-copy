@@ -1,0 +1,32 @@
+
+[
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(±÷×½ùÿÿÿÿ8¥—»‘Ÿ.
+[
+squid:S106U"9Replace this use of System.out or System.err by a logger.(Ç‡³øşÿÿÿÿ8ö§¯‘Ÿ.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹ã¿‰8½¬ØŸ.
+[
+squid:S106B"9Replace this use of System.out or System.err by a logger.(¥øŞùÿÿÿÿ8ı›’‘Ÿ.
+V
+squid:S106H"9Replace this use of System.out or System.err by a logger.(œ”½ï8‰å–‘Ÿ.
+V
+squid:S1062"9Replace this use of System.out or System.err by a logger.(¿å¢ê8‹˜…‘Ÿ.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŒüĞØ8€ÚæŸ.
+jsquid:S00101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(”ş¢¼ùÿÿÿÿ
+[
+squid:S106("9Replace this use of System.out or System.err by a logger.(Èø•èûÿÿÿÿ8»ÕøŸ.
+nsquid:CommentedOutCodeLineS"<This block of commented-out lines of code should be removed.(Ñ¨¬Ñÿÿÿÿÿ8™½´‘Ÿ.
+isquid:CommentedOutCodeLine\"<This block of commented-out lines of code should be removed.(ÍÀÓ×8¨ñÀ‘Ÿ.
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Çµí‘8¨ñÀ‘Ÿ.
+[
+squid:S1064"9Replace this use of System.out or System.err by a logger.(‡åİ‹øÿÿÿÿ8›Ò‘Ÿ.
+[
+squid:S106D"9Replace this use of System.out or System.err by a logger.(Œíù°úÿÿÿÿ8ı›’‘Ÿ.
+U
+squid:S106*"9Replace this use of System.out or System.err by a logger.(¡»˜28ûÚşŸ.
+[
+squid:S106o"9Replace this use of System.out or System.err by a logger.(¥ÎÛÙüÿÿÿÿ8¨ñÀ‘Ÿ.
+[
+squid:S106W"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÀÎÇ‘Ÿ.
