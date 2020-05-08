@@ -12,12 +12,12 @@
     <artifactId>Java</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>Day01</module>
-        <module>Day02</module>
-        <module>Day03</module>
-        <module>Day04</module>
-        <module>Day05</module>
-        <module>Day06</module>
+        <module>chapter01</module>
+        <module>chapter02</module>
+        <module>chapter03</module>
+        <module>chapter04</module>
+        <module>chapter05</module>
+        <module>chapter06</module>
     </modules>
 
 
