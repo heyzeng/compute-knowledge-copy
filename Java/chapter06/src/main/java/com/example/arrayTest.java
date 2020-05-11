@@ -10,7 +10,7 @@ package com.example;
 public class arrayTest {
     public static void main(String[] args) {
 
-        int[] nums = {1, 3, 2, 4};
+        int[] nums = {19, 3, 2, 4};
         //求数组元素的最大值
         int numberMax = nums[0];
 
@@ -99,7 +99,7 @@ public class arrayTest {
 			System.out.print(reverseNumbers[i] + " ");
 		}
 		*/
-
+/*
         //第二种方式：
         for(int i = 0,j = nums.length - 1; i < nums.length / 2; i++,j--){
             int temp = nums[j];
@@ -109,6 +109,24 @@ public class arrayTest {
 
         for (int i = 0; i < nums.length; i++) {
             System.out.print(nums[i] + " ");
+        }
+
+        */
+
+        System.out.println();
+
+        System.out.println("-------------------------------");
+
+        //首尾交换，看清楚中止条件
+        for (int i = 0; i < nums.length / 2; i++) {
+
+            int temp = nums[i];
+            nums[i] = nums[nums.length -1- i];
+            nums[nums.length -1 -i] = temp;
+        }
+        for (int i = 0; i < nums.length; i++) {
+            System.out.print(nums[ i] + "\t");
+
         }
     }
 }

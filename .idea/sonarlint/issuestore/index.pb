@@ -17,3 +17,11 @@ F
 Java/chapter06/pom.xml,d/6/d6bcb23ff043a4529fc186feec94583650b4299e
 F
 Java/chapter05/pom.xml,e/5/e57ab30d92fd91c98d4f98076204532420bf0410
+F
+Java/chapter04/pom.xml,5/6/560f422d5673889177ea20f199d2fe2ce5abf0f5
+F
+Java/chapter03/pom.xml,c/e/ceddc739502e2e7240749fca9157b2abdb9bf992
+F
+Java/chapter02/pom.xml,7/1/7161c20a6bc927156cccabf57fc106c062bf6ff3
+F
+Java/chapter01/pom.xml,3/5/3569d2f0af39dac73f436f26a65964d9e80307b5
