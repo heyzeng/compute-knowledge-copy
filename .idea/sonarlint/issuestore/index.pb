@@ -25,3 +25,7 @@ F
 Java/chapter02/pom.xml,7/1/7161c20a6bc927156cccabf57fc106c062bf6ff3
 F
 Java/chapter01/pom.xml,3/5/3569d2f0af39dac73f436f26a65964d9e80307b5
+i
+9Java/chapter06/src/main/java/com/example/arrayTest02.java,2/8/2884fd6b73d3bef8035b9dac6c5d8c8950ed7577
+a
+1Java/chapter06/src/main/java/com/exer/Demo01.java,b/1/b1205f909d4cd859ef4079cdd4af8e1ecc8ecb80

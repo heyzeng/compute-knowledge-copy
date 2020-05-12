@@ -9,8 +9,10 @@ import java.util.Set;
 
 public class Demo01 {
     public static void main(String[] args) {
+
         ScriptEngineManager scriptEngineManager = new ScriptEngineManager();
         ScriptEngine scriptEngine = scriptEngineManager.getEngineByName("javascript");
+
         String expression = "Math.abs(${yesterday}-${dayBeforeyesterday})/${dayBeforeyesterday} < 0.1";
         Map<String,String> values = new HashMap<String,String>();
         values.put("dayBeforeyesterday","1");
