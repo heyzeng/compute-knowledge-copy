@@ -1,37 +1,36 @@
 
-[
-squid:S106t"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8í•¤ .
-nsquid:CommentedOutCodeLineS"<This block of commented-out lines of code should be removed.(Ñ¨¬Ñÿÿÿÿÿ8µ­£ .
-V
-squid:S1062"9Replace this use of System.out or System.err by a logger.(¿å¢ê8µ­£ .
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(¹ã¿‰8µ­£ .
-[
-squid:S106D"9Replace this use of System.out or System.err by a logger.(Œíù°úÿÿÿÿ8µ­£ .
-[
-squid:S1064"9Replace this use of System.out or System.err by a logger.(‡åİ‹øÿÿÿÿ8µ­£ .
-[
-squid:S106("9Replace this use of System.out or System.err by a logger.(Èø•èûÿÿÿÿ8µ­£ .
-[
-squid:S106B"9Replace this use of System.out or System.err by a logger.(¥øŞùÿÿÿÿ8µ­£ .
-[
-squid:S106Y"9Replace this use of System.out or System.err by a logger.(±÷×½ùÿÿÿÿ8µ­£ .
-isquid:CommentedOutCodeLine\"<This block of commented-out lines of code should be removed.(ÍÀÓ×8µ­£ .
-V
-squid:S106H"9Replace this use of System.out or System.err by a logger.(œ”½ï8µ­£ .
-\
-squid:S106€"9Replace this use of System.out or System.err by a logger.(åáò‡ùÿÿÿÿ8µ­£ .
-[
-squid:S106U"9Replace this use of System.out or System.err by a logger.(Ç‡³øşÿÿÿÿ8µ­£ .
-[
-squid:S106W"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8µ­£ .
-V
-squid:S106"9Replace this use of System.out or System.err by a logger.(ŒüĞØ8µ­£ .
-nsquid:CommentedOutCodeLineh"<This block of commented-out lines of code should be removed.(‡¶ÓÒıÿÿÿÿ8ÂÆØ’ .
-psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Çµí‘8µ­£ .
-[
-squid:S106v"9Replace this use of System.out or System.err by a logger.(ç‘ë®üÿÿÿÿ8µ­£ .
-qsquid:S00101
-"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(”ş¢¼ùÿÿÿÿ8µ­£ .
-U
-squid:S106*"9Replace this use of System.out or System.err by a logger.(¡»˜28µ­£ .
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8µ­£ .
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8í•¤ .
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(åáò‡ùÿÿÿÿ8µ­£ .
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Èø•èûÿÿÿÿ8µ­£ .
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿å¢ê8µ­£ .
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ç‘ë®üÿÿÿÿ8µ­£ .
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(±÷×½ùÿÿÿÿ8µ­£ .
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ç‡³øşÿÿÿÿ8µ­£ .
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(œ”½ï8µ­£ .
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¥øŞùÿÿÿÿ8µ­£ .
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Çµí‘8µ­£ .
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Œíù°úÿÿÿÿ8µ­£ .
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŒüĞØ8µ­£ .
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ñ¨¬Ñÿÿÿÿÿ8µ­£ .
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹ã¿‰8µ­£ .
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(‡åİ‹øÿÿÿÿ8µ­£ .
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‡¶ÓÒıÿÿÿÿ8ÂÆØ’ .
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÍÀÓ×8µ­£ .
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(¡»˜28µ­£ .
+osquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(”ş¢¼ùÿÿÿÿ8µ­£ .

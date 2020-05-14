@@ -15,6 +15,7 @@
         <module name="Day04" />
         <module name="Day05" />
         <module name="Day06" />
+        <module name="java-interview" />
         <module name="project_01" />
       </profile>
     </annotationProcessing>

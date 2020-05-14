@@ -29,3 +29,7 @@ i
 9Java/chapter06/src/main/java/com/example/arrayTest02.java,2/8/2884fd6b73d3bef8035b9dac6c5d8c8950ed7577
 a
 1Java/chapter06/src/main/java/com/exer/Demo01.java,b/1/b1205f909d4cd859ef4079cdd4af8e1ecc8ecb80
+w
+G.idea/sonarlint/issuestore/0/2/02ccb037f6205179386e607bcb2dd6e406afd0f2,9/5/9547b9869fdda095e4af6dffbf079c176c306d94
+[
++Java/chapter05/src/main/java/primeTest.java,8/9/89b117357db6255dc898be227e0bd7382d468edf
