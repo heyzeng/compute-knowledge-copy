@@ -12,3 +12,4 @@
 - [二分查找](https://github.com/heyzeng/compute-knowledge/blob/master/Java/Day06/src/main/java/com/exer2/BinarySearch.java)
 ![大数据架构图](https://i.loli.net/2020/05/14/uZNbVtUDkQRCX3W.png)
 - :clock10:
+- :tractor:
