@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf7bbc12-efb5-4f3f-9f6f-e08cc99815e5" name="Default" comment="" />
+    <list default="true" id="cf7bbc12-efb5-4f3f-9f6f-e08cc99815e5" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/02ccb037f6205179386e607bcb2dd6e406afd0f2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/02ccb037f6205179386e607bcb2dd6e406afd0f2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/2884fd6b73d3bef8035b9dac6c5d8c8950ed7577" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/8/2884fd6b73d3bef8035b9dac6c5d8c8950ed7577" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/1/b1205f909d4cd859ef4079cdd4af8e1ecc8ecb80" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/1/b1205f909d4cd859ef4079cdd4af8e1ecc8ecb80" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project_01/target/" />
@@ -42,7 +48,7 @@
       <file leaf-file-name="Demo01.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Java/chapter06/src/main/java/com/exer/Demo01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
+            <state relative-caret-position="216">
               <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -51,11 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="primeTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="primeTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Java/chapter05/src/main/java/primeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+            <state relative-caret-position="456">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -64,18 +70,6 @@
         <entry file="file://$PROJECT_DIR$/java-interview/pom.xml">
           <provider selected="true" editor-type-id="text-editor" />
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-        </entry>
-      </file>
-      <file leaf-file-name="java-基础知识.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-interview/src/main/resources/java-基础知识.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="768">
-                <caret line="32" selection-start-line="32" selection-end-line="32" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
         </entry>
       </file>
       <file leaf-file-name="arrayTest02.java" pinned="false" current-in-tab="false">
@@ -106,23 +100,11 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
+            <state relative-caret-position="336">
               <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
             </state>
           </provider>
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="285">
-                <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -226,6 +208,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -233,39 +216,12 @@
               <item name="compute-knowledge" type="b2602c69:ProjectViewProjectNode" />
               <item name="compute-knowledge" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="compute-knowledge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="compute-knowledge" type="462c0819:PsiDirectoryNode" />
-              <item name="java-interview" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="compute-knowledge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="compute-knowledge" type="462c0819:PsiDirectoryNode" />
-              <item name="java-interview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="compute-knowledge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="compute-knowledge" type="462c0819:PsiDirectoryNode" />
-              <item name="java-interview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="compute-knowledge" type="b2602c69:ProjectViewProjectNode" />
-              <item name="compute-knowledge" type="462c0819:PsiDirectoryNode" />
-              <item name="java-interview" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -298,18 +254,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.arrayTest02">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exer2.BinarySearch" />
-      <module name="Day06" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.exer2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.primeTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -351,6 +296,11 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="primeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="primeTest" />
+      <module name="chapter05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -390,19 +340,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.BinarySearch" />
       <item itemvalue="Application.bubbleSort" />
       <item itemvalue="Application.annotation" />
       <item itemvalue="Application.arrayTest" />
       <item itemvalue="Application.arrayTest02" />
+      <item itemvalue="Application.primeTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.primeTest" />
         <item itemvalue="Application.arrayTest02" />
         <item itemvalue="Application.arrayTest" />
         <item itemvalue="Application.annotation" />
         <item itemvalue="Application.bubbleSort" />
-        <item itemvalue="Application.BinarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -451,7 +401,8 @@
       <workItem from="1589080658801" duration="871000" />
       <workItem from="1589279620999" duration="398000" />
       <workItem from="1589361946335" duration="118000" />
-      <workItem from="1589420486396" duration="2433000" />
+      <workItem from="1589420486396" duration="3254000" />
+      <workItem from="1589445108420" duration="178000" />
     </task>
     <task id="LOCAL-00001" summary="dayTwo">
       <created>1582474347910</created>
@@ -471,10 +422,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39689000" />
+    <option name="totallyTimeSpent" value="40688000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -485,11 +436,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32914045" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49938422" weight="0.23060797" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.58020234" visible="true" weight="0.41666666" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49938422" weight="0.2300995" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.58020234" weight="0.41666666" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22543353" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22976878" />
       <window_info anchor="bottom" id="SonarLint" order="7" weight="0.329602" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -500,11 +451,11 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32809225" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32809225" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -550,7 +501,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Day03/ExerTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Day03/BitTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Day01/annotation.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Day03/ifTest2.java" />
@@ -629,27 +579,8 @@
       </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Java/chapter07/src/main/resources/a.png" />
     <entry file="file://$PROJECT_DIR$/project_01/target/classes/Demo.class" />
-    <entry file="file://$PROJECT_DIR$/Java/chapter07/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/chapter06/src/main/java/com/example/arrayTest02.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Java/chapter06/src/main/java/com/example/arrayTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1920">
@@ -659,7 +590,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Java/chapter06/src/main/java/com/exer/Demo01.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
+        <state relative-caret-position="216">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -669,17 +600,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/02ccb037f6205179386e607bcb2dd6e406afd0f2">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java/chapter05/src/main/java/primeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-interview/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/java-interview/src/main/resources/java-基础知识.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -694,10 +614,44 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="285">
-            <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <first_editor relative-caret-position="284">
+            <caret line="13" selection-start-line="13" selection-end-line="13" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/chapter07/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/chapter06/src/main/java/com/example/arrayTest02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-interview/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/chapter01/pom.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/chapter05/src/main/java/primeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>

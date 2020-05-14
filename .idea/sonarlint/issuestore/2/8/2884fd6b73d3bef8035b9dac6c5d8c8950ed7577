@@ -1,10 +1,10 @@
 
-Fsquid:S1481"+Remove this unused "scores" local variable.(¸˜µ98¯ò¢úŸ.
-Tsquid:S1197"8Move the array designator from the variable to the type.(ÜÒÏø8¯ò¢úŸ.
-Usquid:S1854":Remove this useless assignment to local variable "scores".(¸˜µ98¯ò¢úŸ.
-Ksquid:S1481"*Remove this unused "names" local variable.(Ø¯ŠÉúÿÿÿÿ8¯ò¢úŸ.
+csquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(”šÅğ
+\squid:S1854";Remove this useless assignment to local variable "numbers".(ëè¥öÿÿÿÿÿ8¯ò¢úŸ.
 T
 squid:S106"9Replace this use of System.out or System.err by a logger.(ôÌ¿ò8ÿ¸¦úŸ.
-\squid:S1854";Remove this useless assignment to local variable "numbers".(ëè¥öÿÿÿÿÿ8¯ò¢úŸ.
+Ksquid:S1481"*Remove this unused "names" local variable.(Ø¯ŠÉúÿÿÿÿ8¯ò¢úŸ.
+Usquid:S1854":Remove this useless assignment to local variable "scores".(¸˜µ98¯ò¢úŸ.
 Msquid:S1481",Remove this unused "numbers" local variable.(ï³€»şÿÿÿÿ8¯ò¢úŸ.
-csquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(”šÅğ
+Tsquid:S1197"8Move the array designator from the variable to the type.(ÜÒÏø8¯ò¢úŸ.
+Fsquid:S1481"+Remove this unused "scores" local variable.(¸˜µ98¯ò¢úŸ.
