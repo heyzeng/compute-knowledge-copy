@@ -1,7 +1,7 @@
 
-M
-squid:S106"9Replace this use of System.out or System.err by a logger.(®²…Ê
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
-ssquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼€«ıÿÿÿÿ
-=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8ÍÑ»¡.
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼€«ıÿÿÿÿ8ÍÑ»¡.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(®²…Ê8ÍÑ»¡.
+Fsquid:S1148!"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¨ï‡»¡.
