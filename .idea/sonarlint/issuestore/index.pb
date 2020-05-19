@@ -37,3 +37,17 @@ F
 java-interview/pom.xml,a/f/af4bdd6cb395033cb9e4cba12a4d201edca962e8
 i
 9Java/chapter06/src/main/java/com/example/arrayTest03.java,f/5/f585dc955ed5d30e87339e46f2ecd330e8208336
+h
+8Java/chapter06/src/main/java/com/example/randomTest.java,7/f/7f28ffd379ce57ae10772d5d33f7d0e984f1c05a
+i
+9Java/chapter06/src/main/java/com/example/arrayTest04.java,8/7/8718b3ec8a120c17b8f599d97673c092f12317a9
+i
+9Java/chapter06/src/main/java/com/example/arrayTest05.java,f/d/fdc8cca710addba816d8d90c06e8195aab30b4be
+\
+,Java/chapter07/src/main/java/java3/demo.java,e/9/e9bdd7e0a541026b0e691b9accbe9a2c6aad6258
+_
+/Java/chapter07/src/main/java/extra/Student.java,1/8/1803fa01c6ed573598ee80b51f8969352b478f87
+c
+3Java/chapter07/src/main/java/extra/StudentTest.java,c/a/ca13d2f9dead6f65a872505cf1f1306a20ac3176
+_
+/Java/chapter07/src/main/java/extra/yangHui.java,c/c/cccfef0854095500aa49eead9d1f91f87fac19ef
