@@ -1,4 +1,4 @@
-package Java.chapter01.src.main.java;/*
+/*
 
 	第一个程序的总结：
 

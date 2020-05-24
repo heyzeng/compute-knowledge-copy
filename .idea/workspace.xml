@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf7bbc12-efb5-4f3f-9f6f-e08cc99815e5" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Chapter08/src/main/java/exer/areaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Chapter08/src/main/java/exer/areaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Chapter08/src/main/java/exer/circleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Chapter08/src/main/java/exer/circleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Chapter08/src/main/java/exer/personTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Chapter08/src/main/java/exer/personTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Chapter08/src/main/java/overloadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Chapter08/src/main/java/overloadTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Chapter08/src/main/java/valueTransfer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Chapter08/src/main/java/valueTransfer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java/chapter01/src/main/java/First_Program_Summary.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter01/src/main/java/First_Program_Summary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java/chapter01/src/main/java/annotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter01/src/main/java/annotation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java/chapter01/src/main/java/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter01/src/main/java/demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter01/target/classes/First_Program_Summary.class" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter01/target/classes/First_Program_Summary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter01/target/classes/annotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter01/target/classes/annotation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter01/target/classes/demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter01/target/classes/demo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java/chapter02/src/main/java/ArithmeticTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter02/src/main/java/ArithmeticTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java/chapter02/src/main/java/NTtest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter02/src/main/java/NTtest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java/chapter02/src/main/java/VarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter02/src/main/java/VarTest.java" afterDir="false" />
@@ -62,111 +61,11 @@
       <change beforePath="$PROJECT_DIR$/Java/chapter07/src/main/java/extra/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter07/src/main/java/extra/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java/chapter07/src/main/java/extra/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter07/src/main/java/extra/StudentTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java/chapter07/src/main/java/extra/yangHui.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter07/src/main/java/extra/yangHui.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/chapter07/src/main/java/extra1/boxTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter07/src/main/java/extra1/boxTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java/chapter07/src/main/java/extra1/computerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter07/src/main/java/extra1/computerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java/chapter07/src/main/java/extra1/personTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter07/src/main/java/extra1/personTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java/chapter07/src/main/java/java2/fieldTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter07/src/main/java/java2/fieldTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java/chapter07/src/main/java/java2/methodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter07/src/main/java/java2/methodTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Java/chapter07/src/main/java/java2/oop.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter07/src/main/java/java2/oop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/chapter07/src/main/java/java3/arrayTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter07/src/main/java/java3/arrayTool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/chapter07/src/main/java/java3/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter07/src/main/java/java3/demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/..gitignore.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.ArithmeticTest.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.BitTest.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.Calculate.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.DeadLoop.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.DoWhileTest.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.EqualsTest.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.ExerTest.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.First_Program_Summary.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.NTtest.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.Number.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.README.md.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.SetValueTest.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.Utility.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.VarTest.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.arrayException.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.breakContinueTest.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.caseOne.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.caseThree.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.caseTwo.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.doWhileTest02.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.familyAccount.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.foobizbaz.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.forForTest.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.forTest.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.forTest2.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.forTest3.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.identifier.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.ifTest.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.ifTest2.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.nineNineTest.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.overloadTest.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.pom.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.primeTest.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.sanyuanTest.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.stwichTest.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.switchTest2.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.valueTransfer.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.varTest2.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.varTest3.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.varTest4.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.varTest5.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.varTest6.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.whileTest.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/Java/.pom.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/Java/Chapter08/.pom.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/Java/chapter01/.pom.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/Java/chapter02/.pom.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/Java/chapter03/.pom.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/Java/chapter04/.pom.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/Java/chapter05/.pom.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/Java/chapter06/.pom.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/Java/chapter07/.pom.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/Java/chapter09/.pom.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/com/example/.arrayTest.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/com/example/.arrayTest02.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/com/example/.arrayTest03.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/com/example/.arrayTest04.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/com/example/.arrayTest05.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/com/example/.randomTest.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/com/exer/.Demo01.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/com/exer/.Demo02.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/com/exer/.Demo03.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/com/exer/.Demo04.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/com/exer2/.BinarySearch.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/com/exer2/.bubbleSort.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/exer/.Area.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/exer/.Circle.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/exer/.Computer.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/exer/.Person.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/exer/.areaTest.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/exer/.circleTest.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/exer/.computerTest.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/exer/.personTest.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/extra/.Student.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/extra/.StudentTest.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/extra/.yangHui.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/extra1/.Box.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/extra1/.Person.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/extra1/.Test.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/extra1/.boxTest.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/extra1/.computerTest.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/extra1/.personTest.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/java-interview/.pom.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/java-interview/src/main/resources/.Java面试题.docx.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/java-interview/src/main/resources/.java-基础知识.md.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/java2/.Animal.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/java2/.Method.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/java2/.Person.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/java2/.fieldTest.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/java2/.methodTest.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/java2/.oop.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/java3/.Peson.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/java3/.arrayTool.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/java3/.demo.class.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/project_01/.pom.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/project_01/family-account/.pom.xml.icloud" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,12 +91,15 @@
     </option>
   </component>
   <component name="ProjectId" id="1cM4YEHKaTGG0aZaeTkEKk7dWIq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
@@ -206,7 +108,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="copyright.filetypes.AspectJ" />
@@ -218,16 +120,24 @@
       <recent name="$PROJECT_DIR$/Java/chapter07/src/main/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ifTest2">
-    <configuration name="ArithmeticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArithmeticTest" />
-      <module name="chapter02" />
+  <component name="RunManager" selected="Application.arrayException">
+    <configuration name="Demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo01" />
+      <module name="chapter06" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="annotation (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="annotation" />
+      <module name="chapter01" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -241,16 +151,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="areaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exer.areaTest" />
-      <module name="Chapter08" />
+    <configuration name="arrayException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayException" />
+      <module name="chapter07" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -262,20 +166,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Java.chapter03.src.main.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="personTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exer.personTest" />
-      <module name="Chapter08" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -315,19 +205,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.areaTest" />
-      <item itemvalue="Application.personTest" />
-      <item itemvalue="Application.ArithmeticTest" />
       <item itemvalue="Application.annotation" />
       <item itemvalue="Application.ifTest2" />
+      <item itemvalue="Application.annotation (1)" />
+      <item itemvalue="Application.Demo01" />
+      <item itemvalue="Application.arrayException" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.arrayException" />
+        <item itemvalue="Application.Demo01" />
+        <item itemvalue="Application.annotation (1)" />
         <item itemvalue="Application.ifTest2" />
         <item itemvalue="Application.annotation" />
-        <item itemvalue="Application.ArithmeticTest" />
-        <item itemvalue="Application.personTest" />
-        <item itemvalue="Application.areaTest" />
       </list>
     </recent_temporary>
   </component>
@@ -396,7 +286,7 @@
       <workItem from="1590324810127" duration="20000" />
       <workItem from="1590325174962" duration="27000" />
       <workItem from="1590325480927" duration="46000" />
-      <workItem from="1590329309814" duration="983000" />
+      <workItem from="1590329309814" duration="1900000" />
     </task>
     <task id="LOCAL-00001" summary="dayTwo">
       <created>1582474347910</created>
@@ -431,34 +321,54 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="dayTwo" />
     <MESSAGE value="dayThree" />
     <option name="LAST_COMMIT_MESSAGE" value="dayThree" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1384" height="149" key="GridCell.Tab.0.bottom" timestamp="1590325201104">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="1624" height="281" key="GridCell.Tab.0.bottom" timestamp="1590330996866">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1624" height="281" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1590330996866" />
     <state width="1384" height="149" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1590325201104" />
-    <state width="1384" height="149" key="GridCell.Tab.0.center" timestamp="1590325201102">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="1624" height="281" key="GridCell.Tab.0.center" timestamp="1590330996864">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1624" height="281" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1590330996864" />
     <state width="1384" height="149" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1590325201102" />
-    <state width="1384" height="149" key="GridCell.Tab.0.left" timestamp="1590325201101">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="1624" height="281" key="GridCell.Tab.0.left" timestamp="1590330996864">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1624" height="281" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1590330996864" />
     <state width="1384" height="149" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1590325201101" />
-    <state width="1384" height="149" key="GridCell.Tab.0.right" timestamp="1590325201103">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="1624" height="281" key="GridCell.Tab.0.right" timestamp="1590330996865">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
+    <state width="1624" height="281" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1590330996865" />
     <state width="1384" height="149" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1590325201103" />
     <state x="272" y="164" key="NewModule_or_Project.wizard" timestamp="1590329416331">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="272" y="164" key="NewModule_or_Project.wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1590329416331" />
-    <state x="200" y="4" key="SettingsEditor" timestamp="1590329615508">
+    <state x="200" y="4" key="SettingsEditor" timestamp="1590330569814">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="200" y="4" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1590329615508" />
+    <state x="200" y="4" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1590330569814" />
+    <state x="0" y="38" key="new project wizard" timestamp="1590330650909">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="0" y="38" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1590330650909" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Java/chapter07/src/main/java/arrayException.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

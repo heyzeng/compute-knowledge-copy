@@ -1,4 +1,4 @@
-package Java.chapter07.src.main.java.java2;
+package java2;
 
 /*
  * 属性（成员变量） ：

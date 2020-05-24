@@ -1,4 +1,4 @@
-package Java.chapter02.src.main.java;/*
+/*
 
 	变量的分类 - 按数据类型分
 

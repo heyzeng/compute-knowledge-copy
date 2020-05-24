@@ -1,4 +1,4 @@
-package Java.chapter04.src.main.java;/*
+/*
 
 3)  求ax2+bx+c=0方程的根。a,b,c分别为函数的参数，如果：b2-4ac>0，
 则有两个解；b2-4ac=0，则有一个解；b2-4ac<0，则无解；

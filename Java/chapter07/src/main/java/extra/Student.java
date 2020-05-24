@@ -1,5 +1,4 @@
-package Java.chapter07.src.main.java.extra;
-
+package extra;
 
 class Student {
     String name;

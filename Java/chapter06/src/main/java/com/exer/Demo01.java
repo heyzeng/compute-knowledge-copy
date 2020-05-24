@@ -1,4 +1,3 @@
-package Java.chapter06.src.main.java.com.exer;
 
 import javax.script.ScriptEngine;
 import javax.script.ScriptEngineManager;

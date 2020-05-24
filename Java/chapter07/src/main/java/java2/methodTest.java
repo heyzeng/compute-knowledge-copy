@@ -1,5 +1,4 @@
-package Java.chapter07.src.main.java.java2;
-/*
+package java2;/*
 
  	方法：
 

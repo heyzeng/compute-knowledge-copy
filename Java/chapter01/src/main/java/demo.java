@@ -1,4 +1,3 @@
-package Java.chapter01.src.main.java;
 
 public class demo {
     public static void main(String[] args) {

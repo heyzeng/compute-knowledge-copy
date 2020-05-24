@@ -9,18 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>Java</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>chapter01</module>
-        <module>chapter02</module>
-        <module>chapter03</module>
-        <module>chapter04</module>
-        <module>chapter05</module>
-        <module>chapter06</module>
-        <module>chapter07</module>
-        <module>Chapter08</module>
-    </modules>
+    <artifactId>small-project</artifactId>
 
 
 </project>

@@ -1,4 +1,4 @@
-package Java.chapter06.src.main.java.com.example;
+
 
 
 public class arrayTest04 {

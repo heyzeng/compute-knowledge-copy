@@ -1,4 +1,4 @@
-package Java.chapter03.src.main.java;/*
+/*
 	比较运算符 ： ==（相当于数学中的=）
 
 	说明：1.比较运算符的结果为boolean类型

@@ -1,4 +1,3 @@
-package Java.chapter06.src.main.java.com.exer2;
 
 /*
     二分查找

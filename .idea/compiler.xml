@@ -6,22 +6,23 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="chapter01" />
-        <module name="chapter02" />
-        <module name="chapter03" />
-        <module name="chapter04" />
-        <module name="chapter05" />
-        <module name="chapter06" />
-        <module name="chapter07" />
-        <module name="Chapter08" />
-        <module name="chapter09" />
-        <module name="Day01" />
-        <module name="Day02" />
-        <module name="Day03" />
-        <module name="Day04" />
-        <module name="Day05" />
         <module name="Day06" />
+        <module name="Day05" />
+        <module name="Day04" />
+        <module name="Day03" />
+        <module name="Day02" />
+        <module name="Day01" />
+        <module name="chapter07" />
         <module name="family-account" />
+        <module name="chapter09" />
+        <module name="Chapter08" />
+        <module name="chapter06" />
+        <module name="chapter05" />
+        <module name="chapter04" />
+        <module name="chapter03" />
+        <module name="chapter02" />
+        <module name="chapter01" />
+        <module name="small-project" />
         <module name="java-interview" />
       </profile>
     </annotationProcessing>

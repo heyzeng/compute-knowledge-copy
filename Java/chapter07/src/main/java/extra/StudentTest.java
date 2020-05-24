@@ -1,9 +1,8 @@
-package Java.chapter07.src.main.java.extra;
-
-import Java.chapter07.src.main.java.extra.Student;
+package extra;
 
 public class StudentTest {
     public static void main(String[] args) {
+
         Student student = new Student();
         student.name = "Tom";
         student.age = 100;

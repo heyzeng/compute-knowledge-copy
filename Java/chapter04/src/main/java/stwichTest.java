@@ -1,4 +1,4 @@
-package Java.chapter04.src.main.java;
+
 
 /*
 	分支结构 ：switch-case
