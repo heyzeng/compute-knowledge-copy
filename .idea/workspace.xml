@@ -2,31 +2,172 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf7bbc12-efb5-4f3f-9f6f-e08cc99815e5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/project_01/family-account/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_01/family-account/src/main/java/Utility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project_01/family-account/src/main/java/familyAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_01/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project_01/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Chapter08/src/main/java/exer/areaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Chapter08/src/main/java/exer/areaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Chapter08/src/main/java/exer/circleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Chapter08/src/main/java/exer/circleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Chapter08/src/main/java/exer/personTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Chapter08/src/main/java/exer/personTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Chapter08/src/main/java/overloadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Chapter08/src/main/java/overloadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/Chapter08/src/main/java/valueTransfer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Chapter08/src/main/java/valueTransfer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter01/src/main/java/First_Program_Summary.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter01/src/main/java/First_Program_Summary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter01/src/main/java/annotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter01/src/main/java/annotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter01/src/main/java/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter01/src/main/java/demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter02/src/main/java/ArithmeticTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter02/src/main/java/ArithmeticTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter02/src/main/java/NTtest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter02/src/main/java/NTtest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter02/src/main/java/VarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter02/src/main/java/VarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter02/src/main/java/identifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter02/src/main/java/identifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter02/src/main/java/varTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter02/src/main/java/varTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter02/src/main/java/varTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter02/src/main/java/varTest3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter02/src/main/java/varTest4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter02/src/main/java/varTest4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter02/src/main/java/varTest5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter02/src/main/java/varTest5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter02/src/main/java/varTest6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter02/src/main/java/varTest6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter03/src/main/java/BitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter03/src/main/java/BitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter03/src/main/java/EqualsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter03/src/main/java/EqualsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter03/src/main/java/ExerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter03/src/main/java/ExerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter03/src/main/java/LogicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter03/src/main/java/LogicTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter03/src/main/java/SetValueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter03/src/main/java/SetValueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter03/src/main/java/ifTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter03/src/main/java/ifTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter03/src/main/java/ifTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter03/src/main/java/ifTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter03/src/main/java/sanyuanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter03/src/main/java/sanyuanTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter04/src/main/java/DeadLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter04/src/main/java/DeadLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter04/src/main/java/caseOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter04/src/main/java/caseOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter04/src/main/java/caseThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter04/src/main/java/caseThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter04/src/main/java/caseTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter04/src/main/java/caseTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter04/src/main/java/foobizbaz.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter04/src/main/java/foobizbaz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter04/src/main/java/forTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter04/src/main/java/forTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter04/src/main/java/forTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter04/src/main/java/forTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter04/src/main/java/forTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter04/src/main/java/forTest3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter04/src/main/java/stwichTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter04/src/main/java/stwichTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter04/src/main/java/switchTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter04/src/main/java/switchTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter04/src/main/java/whileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter04/src/main/java/whileTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter05/src/main/java/DoWhileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter05/src/main/java/DoWhileTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter05/src/main/java/breakContinueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter05/src/main/java/breakContinueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter05/src/main/java/doWhileTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter05/src/main/java/doWhileTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter05/src/main/java/forForTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter05/src/main/java/forForTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter05/src/main/java/forTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter05/src/main/java/forTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter05/src/main/java/nineNineTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter05/src/main/java/nineNineTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter05/src/main/java/primeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter05/src/main/java/primeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter06/src/main/java/com/example/arrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter06/src/main/java/com/example/arrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter06/src/main/java/com/example/arrayTest02.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter06/src/main/java/com/example/arrayTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter06/src/main/java/com/example/arrayTest03.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter06/src/main/java/com/example/arrayTest03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter06/src/main/java/com/example/arrayTest04.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter06/src/main/java/com/example/arrayTest04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter06/src/main/java/com/example/arrayTest05.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter06/src/main/java/com/example/arrayTest05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter06/src/main/java/com/example/randomTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter06/src/main/java/com/example/randomTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter06/src/main/java/com/exer/Demo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter06/src/main/java/com/exer/Demo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter06/src/main/java/com/exer/Demo02.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter06/src/main/java/com/exer/Demo02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter06/src/main/java/com/exer/Demo03.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter06/src/main/java/com/exer/Demo03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter06/src/main/java/com/exer/Demo04.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter06/src/main/java/com/exer/Demo04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter06/src/main/java/com/exer2/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter06/src/main/java/com/exer2/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter06/src/main/java/com/exer2/bubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter06/src/main/java/com/exer2/bubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter07/src/main/java/arrayException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter07/src/main/java/arrayException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter07/src/main/java/extra/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter07/src/main/java/extra/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter07/src/main/java/extra/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter07/src/main/java/extra/StudentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter07/src/main/java/extra/yangHui.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter07/src/main/java/extra/yangHui.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter07/src/main/java/extra1/boxTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter07/src/main/java/extra1/boxTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter07/src/main/java/extra1/computerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter07/src/main/java/extra1/computerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter07/src/main/java/extra1/personTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter07/src/main/java/extra1/personTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter07/src/main/java/java2/fieldTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter07/src/main/java/java2/fieldTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter07/src/main/java/java2/methodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter07/src/main/java/java2/methodTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter07/src/main/java/java2/oop.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter07/src/main/java/java2/oop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter07/src/main/java/java3/arrayTool.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter07/src/main/java/java3/arrayTool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/chapter07/src/main/java/java3/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/chapter07/src/main/java/java3/demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/..gitignore.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.ArithmeticTest.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.BitTest.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.Calculate.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.DeadLoop.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.DoWhileTest.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.EqualsTest.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.ExerTest.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.First_Program_Summary.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.NTtest.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.Number.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.README.md.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.SetValueTest.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.Utility.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.VarTest.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.arrayException.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.breakContinueTest.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.caseOne.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.caseThree.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.caseTwo.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.doWhileTest02.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.familyAccount.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.foobizbaz.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.forForTest.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.forTest.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.forTest2.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.forTest3.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.identifier.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.ifTest.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.ifTest2.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.nineNineTest.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.overloadTest.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.pom.xml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.primeTest.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.sanyuanTest.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.stwichTest.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.switchTest2.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.valueTransfer.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.varTest2.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.varTest3.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.varTest4.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.varTest5.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.varTest6.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/.whileTest.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/Java/.pom.xml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/Java/Chapter08/.pom.xml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/Java/chapter01/.pom.xml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/Java/chapter02/.pom.xml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/Java/chapter03/.pom.xml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/Java/chapter04/.pom.xml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/Java/chapter05/.pom.xml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/Java/chapter06/.pom.xml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/Java/chapter07/.pom.xml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/Java/chapter09/.pom.xml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/com/example/.arrayTest.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/com/example/.arrayTest02.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/com/example/.arrayTest03.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/com/example/.arrayTest04.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/com/example/.arrayTest05.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/com/example/.randomTest.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/com/exer/.Demo01.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/com/exer/.Demo02.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/com/exer/.Demo03.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/com/exer/.Demo04.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/com/exer2/.BinarySearch.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/com/exer2/.bubbleSort.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/exer/.Area.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/exer/.Circle.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/exer/.Computer.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/exer/.Person.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/exer/.areaTest.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/exer/.circleTest.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/exer/.computerTest.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/exer/.personTest.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/extra/.Student.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/extra/.StudentTest.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/extra/.yangHui.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/extra1/.Box.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/extra1/.Person.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/extra1/.Test.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/extra1/.boxTest.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/extra1/.computerTest.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/extra1/.personTest.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/java-interview/.pom.xml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/java-interview/src/main/resources/.Java面试题.docx.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/java-interview/src/main/resources/.java-基础知识.md.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/java2/.Animal.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/java2/.Method.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/java2/.Person.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/java2/.fieldTest.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/java2/.methodTest.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/java2/.oop.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/java3/.Peson.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/java3/.arrayTool.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/java3/.demo.class.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/project_01/.pom.xml.icloud" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/compute-knowledge/project_01/family-account/.pom.xml.icloud" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/Java/chapter01/target/" />
-    <ignored path="$PROJECT_DIR$/Java/chapter04/target/" />
-    <ignored path="$PROJECT_DIR$/Java/chapter06/target/" />
-    <ignored path="$PROJECT_DIR$/Java/chapter05/target/" />
-    <ignored path="$PROJECT_DIR$/Java/target/" />
-    <ignored path="$PROJECT_DIR$/Java/Chapter08/target/" />
-    <ignored path="$PROJECT_DIR$/Java/chapter02/target/" />
-    <ignored path="$PROJECT_DIR$/Java/chapter03/target/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/Java/chapter07/target/" />
-    <ignored path="$PROJECT_DIR$/project_01/target/" />
-    <ignored path="$PROJECT_DIR$/Java/chapter09/target/" />
-    <ignored path="$PROJECT_DIR$/project_01/family-account/target/" />
-    <ignored path="$PROJECT_DIR$/java-interview/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,12 +183,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -56,22 +191,8 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="806" />
-  </component>
   <component name="ProjectId" id="1cM4YEHKaTGG0aZaeTkEKk7dWIq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes />
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -85,7 +206,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="copyright.filetypes.AspectJ" />
@@ -97,27 +218,26 @@
       <recent name="$PROJECT_DIR$/Java/chapter07/src/main/resources" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.ArithmeticTest">
+  <component name="RunManager" selected="Application.ifTest2">
     <configuration name="ArithmeticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArithmeticTest" />
       <module name="chapter02" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="annotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="annotation" />
+      <module name="compute-knowledge" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
@@ -131,28 +251,23 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="circleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exer.circleTest" />
-      <module name="Chapter08" />
+    <configuration name="ifTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.chapter03.src.main.java.ifTest2" />
+      <module name="compute-knowledge" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exer.*" />
+          <option name="PATTERN" value="Java.chapter03.src.main.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-    </configuration>
-    <configuration name="computerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exer.computerTest" />
-      <module name="Chapter08" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="personTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exer.personTest" />
@@ -164,27 +279,19 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-      <method>
+      <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
       <module name="small-project" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -193,49 +300,34 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" />
       <option name="WORKING_DIRECTORY" />
-      <method>
+      <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+    <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
-      <method>
+      <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.circleTest" />
-      <item itemvalue="Application.computerTest" />
       <item itemvalue="Application.areaTest" />
       <item itemvalue="Application.personTest" />
       <item itemvalue="Application.ArithmeticTest" />
+      <item itemvalue="Application.annotation" />
+      <item itemvalue="Application.ifTest2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ifTest2" />
+        <item itemvalue="Application.annotation" />
         <item itemvalue="Application.ArithmeticTest" />
         <item itemvalue="Application.personTest" />
         <item itemvalue="Application.areaTest" />
-        <item itemvalue="Application.computerTest" />
-        <item itemvalue="Application.circleTest" />
       </list>
     </recent_temporary>
   </component>
@@ -304,6 +396,7 @@
       <workItem from="1590324810127" duration="20000" />
       <workItem from="1590325174962" duration="27000" />
       <workItem from="1590325480927" duration="46000" />
+      <workItem from="1590329309814" duration="983000" />
     </task>
     <task id="LOCAL-00001" summary="dayTwo">
       <created>1582474347910</created>
@@ -322,68 +415,20 @@
     <option name="localTasksCounter" value="3" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="811" extended-state="6" />
-    <layout>
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Anonymous Apex" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info anchor="right" id="Database" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
-      <window_info anchor="bottom" id="SOQL Query" />
-      <window_info anchor="bottom" id="SonarLint" />
-      <window_info anchor="bottom" id="Log Viewer" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dayTwo" />
@@ -407,104 +452,13 @@
       <screen x="0" y="23" width="1440" height="811" />
     </state>
     <state width="1384" height="149" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1590325201103" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="Copyright.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>scala-sdk-2.11.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>chapter07</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+    <state x="272" y="164" key="NewModule_or_Project.wizard" timestamp="1590329416331">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="272" y="164" key="NewModule_or_Project.wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1590329416331" />
+    <state x="200" y="4" key="SettingsEditor" timestamp="1590329615508">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="200" y="4" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1590329615508" />
   </component>
 </project>

@@ -1,4 +1,4 @@
-package extra1;
+package Java.chapter07.src.main.java.extra1;
 
 /*
  * 1：编程创建一个Box类，在其中定义三个变量表示一个立方体的长、宽和高，

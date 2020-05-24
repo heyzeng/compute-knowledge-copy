@@ -1,3 +1,5 @@
+package Java.chapter04.src.main.java;
+
 /*
 
 	死循环 ：

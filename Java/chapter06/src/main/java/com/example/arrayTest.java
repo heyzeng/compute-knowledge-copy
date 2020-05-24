@@ -1,4 +1,5 @@
-package com.example;
+package Java.chapter06.src.main.java.com.example;
+
 /*
 1.求数组元素的最大值、最小值、平均数、总和 、查找等
 

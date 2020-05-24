@@ -1,3 +1,5 @@
+package Java.chapter02.src.main.java;
+
 /*
 
 	变量间的运算

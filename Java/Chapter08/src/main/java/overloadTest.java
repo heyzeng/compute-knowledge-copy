@@ -1,3 +1,5 @@
+package Java.Chapter08.src.main.java;
+
 /*
  	方法的重载：在同个类中方法名相同，形参列表不同构成方法的重载。
 

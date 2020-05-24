@@ -1,3 +1,5 @@
+package Java.chapter02.src.main.java;
+
 /*
 
 	变量 ：可以在同一类型范围内不断变化的量。（作用：用来存储数据）

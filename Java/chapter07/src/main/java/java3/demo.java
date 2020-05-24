@@ -1,4 +1,4 @@
-package java3;
+package Java.chapter07.src.main.java.java3;
 
 
 public class demo {

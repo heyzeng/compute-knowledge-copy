@@ -1,4 +1,4 @@
-/*
+package Java.chapter04.src.main.java;/*
 
 不断输入整数，统计正数的个数，直到输入0为止
 */

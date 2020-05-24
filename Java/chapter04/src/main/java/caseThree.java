@@ -1,3 +1,5 @@
+package Java.chapter04.src.main.java;
+
 import java.util.Scanner;
 
 /*

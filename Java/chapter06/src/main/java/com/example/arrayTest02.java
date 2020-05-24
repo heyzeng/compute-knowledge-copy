@@ -1,4 +1,4 @@
-package com.example;
+package Java.chapter06.src.main.java.com.example;
 
 /*
 

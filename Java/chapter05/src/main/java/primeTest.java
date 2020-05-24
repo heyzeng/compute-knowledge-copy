@@ -1,3 +1,5 @@
+package Java.chapter05.src.main.java;
+
 /*
 	质数（也叫素数）：只能被1和本身整除的数
 

@@ -1,3 +1,5 @@
+package Java.chapter02.src.main.java;
+
 /*
 
 	java常量的默认类型

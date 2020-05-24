@@ -1,3 +1,5 @@
+package Java.chapter03.src.main.java;
+
 /*
 
 	三元运算符 ：

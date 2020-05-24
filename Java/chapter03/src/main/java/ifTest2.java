@@ -1,3 +1,5 @@
+package Java.chapter03.src.main.java;
+
 import java.util.Scanner;
 
 public class ifTest2 {

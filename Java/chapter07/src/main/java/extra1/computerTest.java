@@ -1,4 +1,4 @@
-package extra1;
+package Java.chapter07.src.main.java.extra1;
 
 /*
 

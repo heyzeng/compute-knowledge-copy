@@ -1,3 +1,5 @@
+package Java.chapter02.src.main.java;
+
 /*
 
 	标识符 ：凡是需要自己起名字的地方都叫标识符

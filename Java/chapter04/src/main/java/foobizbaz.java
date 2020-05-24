@@ -1,3 +1,5 @@
+package Java.chapter04.src.main.java;
+
 /*
 
 	编写程序FooBizBaz.java，从1循环到150并在每行打印一个值，

@@ -1,4 +1,4 @@
-package exer;
+package Java.Chapter08.src.main.java.exer;
 
 /*
  * 要求：(1)创建Person类的对象，设置该对象的name、age和sex属性，调用study方法，

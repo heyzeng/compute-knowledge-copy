@@ -1,3 +1,5 @@
+package Java.chapter03.src.main.java;
+
 public class ifTest {
     public static void main(String[] args) {
 

@@ -1,4 +1,4 @@
-package exer;
+package Java.Chapter08.src.main.java.exer;
 
 //.3 修改上一个程序，在method方法提供m和n两个参数，方法中打印一个m*n的矩形，并计算该矩形的面积， 将其作为方法返回值。在main方法中调用该方法，接收返回的面积值并打印。
 public class areaTest {

@@ -1,3 +1,5 @@
+package Java.chapter04.src.main.java;
+
 /*
 
 输出所有的水仙花数，所谓水仙花数是指一个3

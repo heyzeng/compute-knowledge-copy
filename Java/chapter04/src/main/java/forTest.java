@@ -1,3 +1,5 @@
+package Java.chapter04.src.main.java;
+
 /*
 
 	循环结构：for循环

@@ -1,3 +1,5 @@
+package Java.chapter02.src.main.java;
+
 /*
 	String(引用数据类型)与基本数据类型(8种)间的运算
 	1.String与基本数据类型只能做连接运算。

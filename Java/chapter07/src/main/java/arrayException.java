@@ -1,3 +1,5 @@
+package Java.chapter07.src.main.java;
+
 /*
  	数组中常见的异常：
  	1.下角标越界 :ArrayIndexOutOfBoundsException

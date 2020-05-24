@@ -1,4 +1,4 @@
-package extra1;
+package Java.chapter07.src.main.java.extra1;
 
 /*
  * 编写一个Person类，包含name、gender、age、id、score属性，分别为String、String、int、int、double类型。
