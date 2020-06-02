@@ -1,31 +1,30 @@
 
-Gsquid:S1172"&Remove these unused method parameters.(ó‚ˆŞÿÿÿÿÿ8§â½Ù¢.
-`squid:S2583"DChange this condition so that it does not always evaluate to "false"(”ÿ©§8§â½Ù¢.
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹…Èºúÿÿÿÿ8· €¹¤.
 T
-squid:S106"9Replace this use of System.out or System.err by a logger.(ÏºĞÚ8§â½Ù¢.
-Xsquid:UnusedPrivateMethod")Remove this unused private "demo" method.(ó‚ˆŞÿÿÿÿÿ8§â½Ù¢.
+squid:S106"9Replace this use of System.out or System.err by a logger.(¸ûê 8· €¹¤.
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(«•¶¨8· €¹¤.
 T
-squid:S106"9Replace this use of System.out or System.err by a logger.(×‹‚±8Œ¾Ü¢.
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(­ –8§â½Ù¢.
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(ôÌ¿ò8¹ò­Ü¢.
+squid:S106"9Replace this use of System.out or System.err by a logger.(­ –8· €¹¤.
+Xsquid:UnusedPrivateMethod")Remove this unused private "demo" method.(ó‚ˆŞÿÿÿÿÿ8· €¹¤.
+Gsquid:S1172"&Remove these unused method parameters.(ó‚ˆŞÿÿÿÿÿ8· €¹¤.
 Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8§â½Ù¢.
-csquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(«•¶¨
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(”ÿ©§8§â½Ù¢.
-¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ó‚ˆŞÿÿÿÿÿ8§â½Ù¢.
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(åÅË’8§â½Ù¢.
-zsquid:S1488"YImmediately return this expression instead of assigning it to the temporary variable "a".(é‡Òüÿÿÿÿ8§â½Ù¢.
-usquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µù„ùÿÿÿÿ
-¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹…Èºúÿÿÿÿ8§â½Ù¢.
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(¿ëâúÿÿÿÿ8§â½Ù¢.
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(ï—˜Õÿÿÿÿÿ8§â½Ù¢.
+squid:S106"9Replace this use of System.out or System.err by a logger.(ï—˜Õÿÿÿÿÿ8· €¹¤.
 T
-squid:S106"9Replace this use of System.out or System.err by a logger.(¸ûê 8§â½Ù¢.
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(”ÿ©§8§â½Ù¢.
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÏºĞÚ8· €¹¤.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ôÌ¿ò8· €¹¤.
+zsquid:S1488"YImmediately return this expression instead of assigning it to the temporary variable "a".(é‡Òüÿÿÿÿ8· €¹¤.
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(”ÿ©§8· €¹¤.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(×‹‚±8· €¹¤.
+`squid:S2583"DChange this condition so that it does not always evaluate to "false"(”ÿ©§8· €¹¤.
+|squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ñ•íùÿÿÿÿ8îé€¹¤.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8· €¹¤.
 S
-squid:S106"9Replace this use of System.out or System.err by a logger.(¹‡‰"8§â½Ù¢.
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(è­ª8è—¿Ù¢.
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹‡‰"8· €¹¤.
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(åÅË’8· €¹¤.
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(”ÿ©§8· €¹¤.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿ëâúÿÿÿÿ8· €¹¤.
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ó‚ˆŞÿÿÿÿÿ8· €¹¤.

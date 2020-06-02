@@ -1,8 +1,8 @@
 
-usquid:S00116"SRename this field "box_wide" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Ö±’ùÿÿÿÿ8”À±Ø¢.
-csquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ş²™Í
 usquid:S00116"SRename this field "box_long" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Â©üÿÿÿÿ8”À±Ø¢.
 usquid:S00116"SRename this field "box_high" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡•ìÕøÿÿÿÿ8”À±Ø¢.
 Y
 squid:S106"9Replace this use of System.out or System.err by a logger.(‹ÑÒÛûÿÿÿÿ8Áó¸Ø¢.
-psquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤å’Ä
+usquid:S00116"SRename this field "box_wide" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Ö±’ùÿÿÿÿ8”À±Ø¢.
+csquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ş²™Í
+|squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±»÷Øıÿÿÿÿ8¢ìÀ¸¤.

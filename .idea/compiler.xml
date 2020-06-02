@@ -13,7 +13,6 @@
         <module name="Day02" />
         <module name="Day01" />
         <module name="chapter07" />
-        <module name="family-account" />
         <module name="chapter09" />
         <module name="Chapter08" />
         <module name="chapter06" />
@@ -27,7 +26,9 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="family-account" target="1.5" />
       <module name="java-basic" target="1.8" />
+      <module name="small-project (1)" target="1.5" />
       <module name="数据" target="1.8" />
     </bytecodeTargetLevel>
   </component>

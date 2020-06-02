@@ -1,24 +1,24 @@
 
+Ysquid:S1197"8Move the array designator from the variable to the type.(÷±µİüÿÿÿÿ8©›ò¸¤.
 T
-squid:S106"9Replace this use of System.out or System.err by a logger.(Åû8îÁ³¢.
-Ysquid:S1197"8Move the array designator from the variable to the type.(óºŸıÿÿÿÿ8îÁ³¢.
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘Ê×8©›ò¸¤.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ßåŠ¿8©›ò¸¤.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(„µÆ™8©›ò¸¤.
+osquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÿ¤Æ­üÿÿÿÿ8©›ò¸¤.
 Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(âĞ¨÷ÿÿÿÿÿ8îÁ³¢.
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(å‘öªşÿÿÿÿ8îÁ³¢.
-Ysquid:S1197"8Move the array designator from the variable to the type.(÷±µİüÿÿÿÿ8îÁ³¢.
+squid:S106"9Replace this use of System.out or System.err by a logger.(âĞ¨÷ÿÿÿÿÿ8©›ò¸¤.
+]squid:S1854"<Remove this useless assignment to local variable "students".(ûïÅÎøÿÿÿÿ8©›ò¸¤.
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(å‘öªşÿÿÿÿ8©›ò¸¤.
+Hsquid:S1481",Remove this unused "numbers" local variable.(ÂªÄÂ8©›ò¸¤.
 T
-squid:S106"9Replace this use of System.out or System.err by a logger.(‘Ê×8îÁ³¢.
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(„µÆ™8îÁ³¢.
-hsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÿ¤Æ­üÿÿÿÿ
-Ksquid:S1481"*Remove this unused "names" local variable.(÷±µİüÿÿÿÿ8îÁ³¢.
+squid:S106"9Replace this use of System.out or System.err by a logger.(Åû8©›ò¸¤.
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‡Òáıÿÿÿÿ8©›ò¸¤.
+Ysquid:S1197"8Move the array designator from the variable to the type.(óºŸıÿÿÿÿ8©›ò¸¤.
 Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(È®Ÿ´úÿÿÿÿ8îÁ³¢.
-lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‡Òáıÿÿÿÿ8îÁ³¢.
-Hsquid:S1481",Remove this unused "numbers" local variable.(ÂªÄÂ8îÁ³¢.
-]squid:S1854"<Remove this useless assignment to local variable "students".(ûïÅÎøÿÿÿÿ8îÁ³¢.
-Nsquid:S1481"-Remove this unused "students" local variable.(ûïÅÎøÿÿÿÿ8îÁ³¢.
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(ßåŠ¿8îÁ³¢.
+squid:S106"9Replace this use of System.out or System.err by a logger.(È®Ÿ´úÿÿÿÿ8©›ò¸¤.
+Ksquid:S1481"*Remove this unused "names" local variable.(÷±µİüÿÿÿÿ8©›ò¸¤.
 Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(ï®Í‚úÿÿÿÿ8îÁ³¢.
+squid:S106"9Replace this use of System.out or System.err by a logger.(ï®Í‚úÿÿÿÿ8©›ò¸¤.
+Nsquid:S1481"-Remove this unused "students" local variable.(ûïÅÎøÿÿÿÿ8©›ò¸¤.
